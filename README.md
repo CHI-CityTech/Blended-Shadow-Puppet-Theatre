@@ -12,6 +12,7 @@ The Blended Shadow Puppet Theatre project explores the intersection of art, cult
 
 - **Modular Set Design**: A flexible, reconfigurable set system built using physical and digital elements.
 - **Puppetry Design and Fabrication**: Projects involving the process of puppet construction.
+- **Sound Integration**: The use of audio in the production, including recording, playback, reinforcement, and system integration
 - **Puppetry Control**: Collaboration with human, machine, and AI to control virtual puppets.
 - **Cultural Research**: Deep exploration of traditional puppetry forms (such as *Wayang Kulit*) and their integration into modern storytelling.
 - **Projection Mapping**: Innovative visual designs mapped onto the performance space, blending physical puppets with digital projections.
@@ -23,6 +24,7 @@ This repository serves as the central hub for the Blended Shadow Puppet Theatre 
 
 - [**Modular Set Design**](https://github.com/CHI-CityTech/Modular-Set-Design): Research and development of reconfigurable set designs for performances.
 - [**Puppet Design & Fabrication**](https://github.com/CHI-CityTech/Puppet-Design-Fabrication): 3D printing, fabrication, and design of physical and robotic puppets.
+- [**Sound and Audio**](https://github.com/CHI-CityTech/Sound-and-Audio): Sound reinforcement, playback, and design
 - [**AI-Driven Puppetry**](https://github.com/CHI-CityTech/AI-Driven-Puppetry): Integration of AI systems to control puppet movements and interactions.
 - [**Cultural Research**](https://github.com/CHI-CityTech/Cultural-Research): Exploration of traditional puppetry forms and cultural narratives.
 - [**Projection Mapping**](https://github.com/CHI-CityTech/Projection-Mapping): Designing and implementing projection-mapped visuals to complement performances.
