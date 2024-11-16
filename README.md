@@ -24,12 +24,12 @@ The Blended Shadow Puppet Theatre project explores the intersection of art, cult
 
 This repository serves as the central hub for the Blended Shadow Puppet Theatre project and is structured into several sub-repositories, each focusing on a different aspect of the project:
 
-- [**Modular Set Design**](https://github.com/CHI-CityTech/Modular-Set-Design): Research and development of reconfigurable set designs for performances.
-- [**Puppet Design & Fabrication**](https://github.com/CHI-CityTech/Puppet-Design-Fabrication): 3D printing, fabrication, and design of physical and robotic puppets.
-- [**Sound and Audio**](https://github.com/CHI-CityTech/Sound-and-Audio): Sound reinforcement, playback, and design
-- [**AI-Driven Puppetry**](https://github.com/CHI-CityTech/AI-Driven-Puppetry): Integration of AI systems to control puppet movements and interactions.
-- [**Cultural Research**](https://github.com/CHI-CityTech/Cultural-Research): Exploration of traditional puppetry forms and cultural narratives.
-- [**Projection Mapping**](https://github.com/CHI-CityTech/Projection-Mapping): Designing and implementing projection-mapped visuals to complement performances.
+- [**Modular Set Design**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Modular-Set-Design): Research and development of reconfigurable set designs for performances.
+- [**Puppet Design & Fabrication**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Puppetry-Design): 3D printing, fabrication, and design of physical and robotic puppets.
+- [**Sound and Audio**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Audio): Sound reinforcement, playback, and design
+- [**AI-Driven Puppetry**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Puppetry-Control): Integration of AI systems to control puppet movements and interactions.
+- [**Cultural Research**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Cultural-Research): Exploration of traditional puppetry forms and cultural narratives.
+- [**Projection Mapping**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Projection): Designing and implementing projection-mapped visuals to complement performances.
 - [**Virtual-Physical Integration**](https://github.com/CHI-CityTech/Virtual-Physical-Integration): Bridging the gap between the physical performance space and virtual worlds.
 
 Each sub-repository includes its own documentation, research, and development files. Check out each project for more detailed information.
