@@ -24,13 +24,14 @@ The Blended Shadow Puppet Theatre project explores the intersection of art, cult
 
 This repository serves as the central hub for the Blended Shadow Puppet Theatre project and is structured into several sub-repositories, each focusing on a different aspect of the project:
 
-- [**Modular Set Design**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Modular-Set-Design): Research and development of reconfigurable set designs for performances.
-- [**Puppet Design**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Puppetry-Design): 3D printing, fabrication, and design of physical and robotic puppets.
+- [**Modular Set Design**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Modular-Set-Design): Research and development of reconfigurable set designs for performances. Specific implementations of the Blended Reality Performance System project.
+- [**Narrative**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Narrative): texts, scripts, stories and other narrative development for performances
+- [**Puppet Design**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Puppetry-Design): 
 - [**Audio**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Audio): Sound reinforcement, playback, and design
 - [**Puppetry-Control**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Puppetry-Control): Integration of AI systems to control puppet movements and interactions.
 - [**Cultural Research**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Cultural-Research): Exploration of traditional puppetry forms and cultural narratives.
 - [**Projection**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Projection): Designing and implementing projection-mapped visuals to complement performances.
-- [**Virtual-Physical Integration**](https://github.com/CHI-CityTech/Virtual-Physical-Integration): Bridging the gap between the physical performance space and virtual worlds.
+- [**Integration**](https://github.com/CHI-CityTech/Virtual-Physical-Integration): Bridging the gap between the physical performance space and virtual worlds.
 
 Each sub-repository includes its own documentation, research, and development files. Check out each project for more detailed information.
 
