@@ -12,13 +12,7 @@ Our project team combines traditional shadow puppetry, modern technology, and ar
 
 The Blended Shadow Puppet Theatre project explores the intersection of art, culture, and technology, focusing on the following core areas:
 
-- **Modular Set Design**: A flexible, reconfigurable set system built using physical and digital elements.
-- **Puppetry Design and Fabrication**: Projects involving the process of puppet construction.
-- **Sound Integration**: The use of audio in the production, including recording, playback, reinforcement, and system integration
-- **Puppetry Control**: Collaboration with human, machine, and AI to control virtual puppets.
-- **Cultural Research**: Deep exploration of traditional puppetry forms (such as *Wayang Kulit*) and their integration into modern storytelling.
-- **Projection Mapping**: Innovative visual designs mapped onto the performance space, blending physical puppets with digital projections.
-- **Virtual-Physical Integration**: Creating a seamless interface between physical puppets and their virtual counterparts in a digital environment.
+
 
 ## Key Components
 
