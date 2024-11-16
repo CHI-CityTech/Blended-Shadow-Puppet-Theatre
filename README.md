@@ -1,10 +1,12 @@
 # Blended-Shadow-Puppet-Theatre
-This is the overarching repository that contains all high-level documentation and links to sub-repositories for specific projects.
-The main web site for Blended Shadow Puppet (BSP) is hosted on New York City College of Technology's Open Lab site.
+This is the repository that contains all high-level documentation and links for the theatrical performance component of the larger Blended Shadow Puppet Meta-project.
+The main web site for [Blended Shadow Puppet Theatre](https://openlab.citytech.cuny.edu/wayang2024/) is hosted on New York City College of Technology's [Open Lab](https://openlab.citytech.cuny.edu/) site.
 
 # Blended Shadow Puppet Theatre
 
-Welcome to the **Blended Shadow Puppet Theatre** project! This initiative is a cross-disciplinary effort combining traditional shadow puppetry, modern technology, and artificial intelligence to create an immersive and dynamic performance experience. The project integrates cultural research, modular set designs, AI-driven puppetry, and projection mapping to explore new narrative forms through physical and virtual mediums.
+Welcome to the **Blended Shadow Puppet Theatre** project! This initiative is a cross-disciplinary effort that seeks to merge the ancient art of Javanese shadow puppetry with cutting-edge video projection and animation technology, creating a captivating fusion of physical and virtual storytelling elements. At the heart of the Blended Shadow Puppet Theatre is a desire to honor and explore traditional Javanese puppetry, an art form steeped in history and rich in narrative depth. By integrating these traditional elements with the dynamic possibilities of 21st-century digital media, the project will offer a unique cultural bridge that spans time and geography. 
+
+Our project team combines traditional shadow puppetry, modern technology, and artificial intelligence to create an immersive and dynamic performance experience. The project integrates cultural research, modular set designs, AI collaboration, 3D fabrication, sound, music, lighting, and projection mapping to explore new narrative forms in blended environemnts that combine physical, virtual, and conceptual mediums.
 
 ## Overview
 
