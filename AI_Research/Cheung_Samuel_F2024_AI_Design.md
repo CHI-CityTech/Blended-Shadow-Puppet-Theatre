@@ -1,6 +1,7 @@
 # Internship Proposal: Exploring and Creating AI-Generated Content for Blended Shadow Puppet Theatre
 **Samuel Cheung**  
 **8-27-2024**
+**Internship Coordinator: David B. Smith***
 
 ---
 
