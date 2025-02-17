@@ -1,5 +1,5 @@
 # BSPT Narrative README  
-This Repository Folder contains scripts, storyboarding, narrative devices or other documents related to the narrative development of the Theatre Project.  
+This Repository Folder contains scripts, storyboarding, narrative devices or other documents related to the narrative development of the **Blended Shadow Puppet Theatre Project**.  
 
 Links to important documents outside of this repository can be found below:
 
