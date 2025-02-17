@@ -22,6 +22,7 @@ This repository serves as the central hub for the Blended Shadow Puppet Theatre 
 - [**Narrative**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Narrative): texts, scripts, stories and other narrative development for performances
 - [**Puppet Design**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Puppetry-Design): Projects involving the process of puppet construction.  traditional construction, 3D printing, fabrication, and design of physical, robotic, and virtual puppets.
 - [**Audio**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Audio): Sound reinforcement, playback, and design
+- [**Music**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Audio): Composition and Virtual Orchestra
 - [**Puppetry-Control**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Puppetry-Control): Integration of AI systems to control puppet movements and interactions.
 - [**Cultural Research**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Cultural-Research): Exploration of traditional puppetry forms and cultural narratives and their integration into modern storytelling.
 - [**Projection**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Projection): Designing and implementing projection-mapped visuals to complement performances.
