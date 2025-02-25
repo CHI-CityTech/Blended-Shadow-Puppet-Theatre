@@ -2,6 +2,8 @@
 This is the repository that contains all high-level documentation and links for the theatrical performance component of the larger Blended Shadow Puppet Meta-project.
 The main web site for [Blended Shadow Puppet Theatre](https://openlab.citytech.cuny.edu/wayang2024/) is hosted on New York City College of Technology's [Open Lab](https://openlab.citytech.cuny.edu/) site.
 
+Current Version of the script can be found herealmost done here sorry and I need a recently sent. OK why is my computer suddenly taking dictation hi it was just a butt dial. Sorry no worries bye I just have to go document. Which is right here.
+
 # Blended Shadow Puppet Theatre
 
 Welcome to the **Blended Shadow Puppet Theatre** project! This initiative is a cross-disciplinary effort that seeks to merge the ancient art of Javanese shadow puppetry with cutting-edge video projection and animation technology, creating a captivating fusion of physical and virtual storytelling elements. At the heart of the Blended Shadow Puppet Theatre is a desire to honor and explore traditional Javanese puppetry, an art form steeped in history and rich in narrative depth. By integrating these traditional elements with the dynamic possibilities of 21st-century digital media, the project will offer a unique cultural bridge that spans time and geography. 
@@ -11,8 +13,6 @@ Our project team combines traditional shadow puppetry, modern technology, and ar
 ## Overview
 
 The Blended Shadow Puppet Theatre project explores the intersection of art, culture, and technology, focusing on the following core areas:
-
-
 
 ## Key Components
 
