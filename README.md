@@ -2,7 +2,7 @@
 This is the repository that contains all high-level documentation and links for the theatrical performance component of the larger Blended Shadow Puppet Meta-project.
 The main web site for [Blended Shadow Puppet Theatre](https://openlab.citytech.cuny.edu/wayang2024/) is hosted on New York City College of Technology's [Open Lab](https://openlab.citytech.cuny.edu/) site.
 
-Current Version of the script can be found herealmost done here sorry and I need a recently sent. OK why is my computer suddenly taking dictation hi it was just a butt dial. Sorry no worries bye I just have to go document. Which is right here.
+[**Current Version of the script**](https://docs.google.com/document/d/1A3bmC4oV0EE3heKgnKrM0bltRhhgRomU7DYxMHU111k/edit?usp=sharing)  
 
 # Blended Shadow Puppet Theatre
 
