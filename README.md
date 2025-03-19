@@ -5,6 +5,32 @@ The main web site for [Blended Shadow Puppet Theatre](https://openlab.citytech.c
 [**Current Version of the script**](https://docs.google.com/document/d/1A3bmC4oV0EE3heKgnKrM0bltRhhgRomU7DYxMHU111k/edit?usp=sharing)  
 [**Master Cue Sheet**](https://docs.google.com/spreadsheets/d/1T1PGMKF9T4H9ynn9cqJtV8zQLiV5BHxgqK76C6-gkvE/edit?usp=sharing)  
 
+## 2025 Project Team
+
+[**Blended Shadow Puppet Theatre (BSP) Spring Production**](https://github.com/orgs/CHI-CityTech/teams/bsp-spring-production)  
+The Spring Blended Shadow Puppet Theatre Production, with expanded script, puppets, and technology.  This semester, we integrate front projection, as well as the introduction of textile-based scenery that blends with projection.  We also extend the script, adding a second act (which really may be a scene in a full length version), explore more articulated puppetry, some with machine or mechanism control, compose original music, and engineer a more sophisticated surround sound system with a more elaborate set.    
+
+### Student Team
+| Name                  | Role(s) |
+|-----------------------|--------------------------------------------------------------|
+| **Sean Chan**         | Immersive Sound Audio Design for BSP, recording engineer |
+| **Sam Cheung**        | Visual Design ("Seni Rupa AI"), Physical Puppetry Design ("Perancang Wayang Teknologi"), Puppeteer ("Dalang"), Archiving and Documentation |
+| **Edward Gonzalez**   | AI Control Programmer |
+| **Osakpolor Noyiagbon** | Composer ("Wiyaga") |
+| **Anthony Navarro**   | Audio/Visual System Designer |
+| **John Powell**       | Narrator, Puppeteer |
+| **Crystal Sanchez**   | Scenic Textile Artist |
+| **Ben Watson**        | Technical Design for Mechanical Puppets |
+| **Tshari Yancey**     | Playwright, Puppeteer ("Dalang"), Puppet Artist ("Tukang Sungging") |
+
+### Faculty Mentors  
+| Name                  | Role(s) |
+|-----------------------|--------------------------------------------------------------|
+| **Nazanin Munroe**    | Textile and Fabrics |
+| **Christopher Swift** | Artistic Director |
+| **David B. Smith**    | Producer and Technical Director |
+
+
 # Blended Shadow Puppet Theatre
 
 Welcome to the **Blended Shadow Puppet Theatre** project! This initiative is a cross-disciplinary effort that seeks to merge the ancient art of Javanese shadow puppetry with cutting-edge video projection and animation technology, creating a captivating fusion of physical and virtual storytelling elements. At the heart of the Blended Shadow Puppet Theatre is a desire to honor and explore traditional Javanese puppetry, an art form steeped in history and rich in narrative depth. By integrating these traditional elements with the dynamic possibilities of 21st-century digital media, the project will offer a unique cultural bridge that spans time and geography. 
