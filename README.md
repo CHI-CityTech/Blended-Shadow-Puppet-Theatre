@@ -3,6 +3,7 @@ This is the repository that contains all high-level documentation and links for 
 The main web site for [Blended Shadow Puppet Theatre](https://openlab.citytech.cuny.edu/wayang2024/) is hosted on New York City College of Technology's [Open Lab](https://openlab.citytech.cuny.edu/) site.
 
 [**Current Version of the script**](https://docs.google.com/document/d/1A3bmC4oV0EE3heKgnKrM0bltRhhgRomU7DYxMHU111k/edit?usp=sharing)  
+[**Master Cue Sheet**](https://docs.google.com/spreadsheets/d/1T1PGMKF9T4H9ynn9cqJtV8zQLiV5BHxgqK76C6-gkvE/edit?usp=sharing)  
 
 # Blended Shadow Puppet Theatre
 
