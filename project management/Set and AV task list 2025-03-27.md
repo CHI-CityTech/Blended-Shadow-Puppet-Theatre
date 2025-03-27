@@ -11,7 +11,7 @@ This document outlines the tasks required to set up:
 1. **Confirm Measurements**  
    - Verify stage and screen dimensions:  
      - Central screen: 6’ × 6’  
-     - Wings: 6’ × 4.6’  
+     - Wings: 6’ × 4’  
    - Confirm the 80/20 T-Slot framing matches these dimensions.
 
 2. **Assemble 80/20 T-Slot Frame**  
@@ -61,16 +61,18 @@ This document outlines the tasks required to set up:
 ## 4. Audio Setup (QLab 8 Outputs, 7.1 Layout)
 1. **Speaker Placement**  
    - Plan a 7.1(ish) layout:  
-     - Front L, Center, Front R  
+     - Front L, Front R  
      - Side Surrounds (L, R)  
      - Rear Surrounds (L, R)  
-     - Upstage speaker (for additional effects)  
+     - Upstage speaker (for additional effects)
+     - Sub  
 
 2. **Signal Routing**  
    - Connect QLab’s 8 outputs to amplifiers/powered speakers according to your channel layout.  
    - Label interface channels (e.g., Output 1 → Front L, etc.).
 
 3. **Cable Runs and Organization**  
+   - Measure and construct cable harnesses for audio sends
    - Use balanced cables (XLR or TRS) to reduce noise.  
    - Keep cables labeled at both ends for troubleshooting.
 
