@@ -43,16 +43,16 @@ The Blended Shadow Puppet Theatre project explores the intersection of art, cult
 
 ## Key Components
 
-This repository serves as the central hub for the Blended Shadow Puppet Theatre project and is structured into several sub-repositories, each focusing on a different aspect of the project:
+This repository serves as the central hub for the Blended Shadow Puppet Theatre project and is structured into several focus areas:
 
-- [**Modular Set Design**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Modular-Set-Design): Research and development of reconfigurable set designs for performances. Specific implementations of the Blended Reality Performance System project.
-- [**Narrative**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Narrative): texts, scripts, stories and other narrative development for performances
-- [**Puppet Design**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Puppetry-Design): Projects involving the process of puppet construction.  traditional construction, 3D printing, fabrication, and design of physical, robotic, and virtual puppets.
-- [**Audio**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Audio): Sound reinforcement, playback, and design
-- [**Music**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Audio): Composition and Virtual Orchestra
-- [**Puppetry-Control**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Puppetry-Control): Integration of AI systems to control puppet movements and interactions.
-- [**Cultural Research**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Cultural-Research): Exploration of traditional puppetry forms and cultural narratives and their integration into modern storytelling.
-- [**Projection**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/Projection): Designing and implementing projection-mapped visuals to complement performances.
+- [**Set Design**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/design/set): Research and development of reconfigurable set designs for performances. Specific implementations of the Blended Reality Performance System project.
+- [**Narrative**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/narrative): Texts, scripts, stories and other narrative development for performances.
+- [**Puppet Design**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/design/puppetry): Projects involving the process of puppet construction, traditional construction, 3D printing, fabrication, and design of physical, robotic, and virtual puppets.
+- [**Audio**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/assets/audio): Sound reinforcement, playback, and design.
+- [**Music**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/music): Composition and virtual orchestra.
+- [**Puppetry Control**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/control/puppetry): Integration of AI systems to control puppet movements and interactions.
+- [**Cultural Research**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/docs/research/cultural): Exploration of traditional puppetry forms and cultural narratives and their integration into modern storytelling.
+- [**Projection**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/assets/projection): Designing and implementing projection-mapped visuals to complement performances.
 - [**Integration**](https://github.com/CHI-CityTech/Virtual-Physical-Integration): Creating a seamless interface between physical puppets and their virtual counterparts in a digital environment. Bridging the gap between the physical performance space and virtual worlds.
 
 Each sub-repository includes its own documentation, research, and development files. It will also link to other more specialized repositories that are also participating in teh project.  Check out each project for more detailed information.
