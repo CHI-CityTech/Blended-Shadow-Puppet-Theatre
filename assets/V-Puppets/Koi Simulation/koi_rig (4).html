@@ -1,0 +1,479 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Rigged Koi Fish - New Body 1 Adjustment</title>
+<style>
+  * { box-sizing: border-box; }
+  html, body { width: 100%; height: 100%; margin: 0; overflow: hidden; }
+  body {
+    background:
+      radial-gradient(ellipse at 28% 18%, rgba(88,177,194,.12), transparent 34%),
+      radial-gradient(ellipse at 72% 64%, rgba(13,92,120,.10), transparent 38%),
+      linear-gradient(180deg, #0b4356 0%, #0b5268 46%, #082f45 100%);
+    font-family: system-ui, sans-serif;
+  }
+
+  /* Procedural animated water sits behind the fish. */
+  #waterCanvas {
+    position: fixed;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    pointer-events: none;
+  }
+
+  .water {
+    position: fixed;
+    inset: 0;
+    z-index: 1;
+    overflow: hidden;
+    pointer-events: none;
+    background:
+      radial-gradient(ellipse at 30% 26%, rgba(140,224,232,.035), transparent 30%),
+      radial-gradient(ellipse at 68% 72%, rgba(42,143,164,.028), transparent 36%);
+    animation: waterGlow 18s ease-in-out infinite alternate;
+  }
+
+  .water::before, .water::after {
+    content: "";
+    position: absolute;
+    inset: -35%;
+    pointer-events: none;
+    mix-blend-mode: screen;
+    will-change: transform;
+  }
+
+  /* Long moving caustic streaks. */
+  .water::before {
+    background:
+      repeating-radial-gradient(ellipse at 40% 50%,
+        transparent 0 21px, rgba(161,235,255,.085) 22px 24px, transparent 25px 47px),
+      repeating-linear-gradient(112deg,
+        transparent 0 34px, rgba(190,243,255,.045) 35px 38px, transparent 39px 78px);
+    filter: blur(.4px);
+    opacity: .20;
+    animation: causticsA 22s linear infinite;
+  }
+
+  /* Smaller counter-moving ripple texture. */
+  .water::after {
+    background:
+      repeating-radial-gradient(ellipse at 60% 40%,
+        transparent 0 10px, rgba(255,255,255,.045) 11px 12px, transparent 13px 31px),
+      radial-gradient(circle at 40% 40%, rgba(100,211,255,.08), transparent 34%);
+    opacity: .14;
+    filter: blur(.7px);
+    animation: causticsB 23s linear infinite reverse;
+  }
+
+  @keyframes causticsA {
+    0%   { transform: translate3d(-2%,-2%,0) rotate(-2deg) scale(1.02); }
+    50%  { transform: translate3d(4%,3%,0) rotate(2deg) scale(1.08); }
+    100% { transform: translate3d(-1%,6%,0) rotate(5deg) scale(1.03); }
+  }
+  @keyframes causticsB {
+    0%   { transform: translate3d(4%,-3%,0) rotate(3deg) scale(1.04); }
+    50%  { transform: translate3d(-4%,4%,0) rotate(-3deg) scale(1.10); }
+    100% { transform: translate3d(2%,7%,0) rotate(-6deg) scale(1.05); }
+  }
+  @keyframes waterGlow {
+    from { filter: saturate(.98) brightness(.98); }
+    to   { filter: saturate(1.03) brightness(1.015); }
+  }
+
+  /* Entire fish coordinate space. */
+  #koi {
+    position: absolute;
+    z-index: 3;
+    width: 1060px;
+    height: 650px;
+    left: 0;
+    top: 0;
+    transform-origin: 50% 50%;
+    will-change: transform;
+    filter: drop-shadow(0 16px 14px rgba(0,0,0,.22));
+  }
+
+  #koi img {
+    position: absolute;
+    display: block;
+    max-width: none;
+    user-select: none;
+    pointer-events: none;
+  }
+
+  /* Head remains the anchor. */
+  .head {
+    width: 257px;
+    height: 246px;
+    left: 32px;
+    top: 195px;
+    z-index: 10;
+  }
+
+  /*
+     IMPORTANT RIG RULE:
+     Every .joint div is placed at the CENTER of the circular socket.
+     The child image is shifted so its own socket center sits at 0,0.
+     Because the segments are nested, downstream pieces follow the parent
+     and cannot open gaps when a parent bends.
+  */
+  .joint {
+    position: absolute;
+    width: 0;
+    height: 0;
+    transform-origin: 0 0;
+    will-change: transform;
+  }
+
+  /* Head -> Body 1 socket center. */
+  .body1-joint {
+    left: 240px;
+    top: 338px;
+    z-index: 8;
+    animation: body1Swing 1.55s ease-in-out infinite;
+  }
+  .body1 {
+    width: 313px;
+    height: 368px;
+    left: -50px;   /* new Body 1: left socket center X */
+    top: -154px;   /* new Body 1: left socket center Y */
+    z-index: 8;
+  }
+
+  /* Body 1 -> Body 2. 217px is center-to-center between Body 1 sockets. */
+  .body2-joint {
+    left: 214px;   /* new Body 1 left socket -> right socket */
+    top: 0px;
+    z-index: 7;
+    animation: body2Swing 1.55s ease-in-out infinite;
+  }
+  .body2 {
+    width: 335px;
+    height: 245px;
+    left: -54px;   /* exact center of Body 2 left socket */
+    top: -128px;
+    z-index: 7;
+  }
+
+  /* Body 2 -> Tail. The tail's round socket is centered on Body 2's rear end. */
+  .tail-joint {
+    left: 261px;   /* Body 2 socket center -> rear attachment center */
+    top: 1px;
+    z-index: 6;
+    animation: tailSwing 1.55s ease-in-out infinite;
+  }
+  .tail {
+    width: 317px;
+    height: 338px;
+    left: -105px;  /* Tail socket center X */
+    top: -169px;   /* Tail socket center Y */
+    z-index: 6;
+  }
+
+  /* Body 1 top limb socket -> Fin 1 socket. */
+  .fin1-joint {
+    left: 42px;    /* fin socket centered on new Body 1 */
+    top: -63px;
+    z-index: 6;    /* behind Body 1 so the round joint is hidden cleanly */
+    animation: finTop 1.25s ease-in-out infinite;
+  }
+  .fin1 {
+    width: 324px;
+    height: 360px;
+    left: -127px;  /* exact center of Fin 1 round socket */
+    top: -230px;
+    z-index: 6;
+  }
+
+  /* Body 1 bottom limb socket -> Fin 2 socket. */
+  .fin2-joint {
+    left: 42px;    /* fin socket centered on new Body 1 */
+    top: 64px;
+    z-index: 6;    /* behind Body 1 for a clean socket overlap */
+    animation: finBottom 1.25s ease-in-out infinite;
+  }
+  .fin2 {
+    width: 318px;
+    height: 351px;
+    left: -154px;  /* exact center of Fin 2 round socket */
+    top: -118px;
+    z-index: 6;
+  }
+
+  /* Progressive bend: small at the front, larger toward the tail. */
+  @keyframes body1Swing {
+    0%,100% { transform: rotate(-0.7deg); }
+    50%     { transform: rotate( 0.7deg); }
+  }
+  @keyframes body2Swing {
+    0%,100% { transform: rotate( 2.6deg); }
+    50%     { transform: rotate(-2.6deg); }
+  }
+  @keyframes tailSwing {
+    0%,100% { transform: rotate(-7deg); }
+    50%     { transform: rotate( 7deg); }
+  }
+  @keyframes finTop {
+    0%,100% { transform: rotate(-2.5deg); }
+    50%     { transform: rotate( 4.5deg); }
+  }
+  @keyframes finBottom {
+    0%,100% { transform: rotate(2.5deg); }
+    50%     { transform: rotate(-4.5deg); }
+  }
+
+  .hint {
+    position: fixed;
+    z-index: 4;
+    left: 14px;
+    bottom: 12px;
+    padding: 7px 10px;
+    border-radius: 10px;
+    color: rgba(255,255,255,.88);
+    background: rgba(0,0,0,.22);
+    backdrop-filter: blur(5px);
+    font-size: 12px;
+    pointer-events: none;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .joint { animation: none !important; }
+  }
+</style>
+</head>
+<body>
+<canvas id="waterCanvas" aria-hidden="true"></canvas>
+<div class="water"></div>
+
+<div id="koi" aria-label="Animated rigged koi fish">
+  <img class="head" src="Head 1.png" alt="" />
+
+  <div class="joint body1-joint">
+    <img class="body1" src="Body 1.png" alt="" />
+
+    <div class="joint fin1-joint">
+      <img class="fin1" src="Fin 1.png" alt="" />
+    </div>
+
+    <div class="joint fin2-joint">
+      <img class="fin2" src="Fin 2.png" alt="" />
+    </div>
+
+    <div class="joint body2-joint">
+      <img class="body2" src="Body 2.png" alt="" />
+
+      <div class="joint tail-joint">
+        <img class="tail" src="Tail 2.png" alt="" />
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="hint">Click anywhere to send the koi toward that point.</div>
+
+<script>
+(() => {
+  /* More realistic animated water: layered refraction, caustics, suspended particles and soft ripples. */
+  const canvas = document.getElementById('waterCanvas');
+  const ctx = canvas.getContext('2d');
+  let cw = 0, ch = 0, dpr = 1;
+  const motes = [];
+  const ripples = [];
+  const causticSeeds = Array.from({length: 14}, () => ({
+    x: Math.random(), y: Math.random(),
+    rx: 40 + Math.random()*120,
+    ry: 12 + Math.random()*42,
+    phase: Math.random()*Math.PI*2,
+    drift: .12 + Math.random()*.28
+  }));
+
+  function resizeWater() {
+    dpr = Math.min(1.25, window.devicePixelRatio || 1);
+    cw = innerWidth; ch = innerHeight;
+    canvas.width = Math.round(cw*dpr);
+    canvas.height = Math.round(ch*dpr);
+    canvas.style.width = cw+'px';
+    canvas.style.height = ch+'px';
+    ctx.setTransform(dpr,0,0,dpr,0,0);
+
+    motes.length = 0;
+    const count = Math.max(36, Math.round((cw*ch)/26000));
+    for (let i=0;i<count;i++) {
+      motes.push({
+        x: Math.random()*cw,
+        y: Math.random()*ch,
+        r: .35 + Math.random()*1.35,
+        a: .025 + Math.random()*.13,
+        vx: -.04 + Math.random()*.08,
+        vy: -.025 + Math.random()*.05,
+        phase: Math.random()*Math.PI*2
+      });
+    }
+  }
+
+  function drawCaustic(seed, t, layer=0) {
+    const x = (seed.x*cw + Math.sin(t*seed.drift + seed.phase)*70 + layer*18) % (cw+180) - 90;
+    const y = (seed.y*ch + Math.cos(t*seed.drift*.83 + seed.phase)*55 + layer*11) % (ch+140) - 70;
+    const wobble = 1 + Math.sin(t*.55 + seed.phase)*.16;
+    ctx.save();
+    ctx.translate(x,y);
+    ctx.rotate(Math.sin(t*.22+seed.phase)*.42);
+    ctx.scale(wobble, 1/wobble);
+    ctx.beginPath();
+    ctx.ellipse(0,0,seed.rx*(1+layer*.35),seed.ry*(1+layer*.25),0,0,Math.PI*2);
+    ctx.strokeStyle = layer===0 ? 'rgba(205,245,255,.085)' : 'rgba(130,220,245,.045)';
+    ctx.lineWidth = layer===0 ? 1.2 : 2.2;
+        ctx.stroke();
+    ctx.restore();
+  }
+
+  function drawSurfaceBands(t) {
+    ctx.save();
+    ctx.globalCompositeOperation = 'screen';
+    for (let row=0; row<8; row++) {
+      const y0 = ch*(row+.35)/8;
+      ctx.beginPath();
+      for (let x=-60; x<=cw+60; x+=24) {
+        const y = y0
+          + Math.sin(x*.0052 + t*.42 + row*.83)*7.5
+          + Math.sin(x*.0108 - t*.31 + row*.41)*3.2
+          + Math.sin(x*.0023 + t*.12)*5.0;
+        if (x===-60) ctx.moveTo(x,y); else ctx.lineTo(x,y);
+      }
+      ctx.strokeStyle = `rgba(170,232,245,${0.018 + (row%3)*0.005})`;
+      ctx.lineWidth = 1.0 + (row%2)*.6;
+      ctx.stroke();
+    }
+    ctx.restore();
+  }
+
+  function drawVignette() {
+    ctx.fillStyle = 'rgba(0,12,25,.035)';
+    ctx.fillRect(0,0,cw,ch);
+  }
+
+  function waterFrame(ms) {
+    const t = ms*.001;
+    ctx.clearRect(0,0,cw,ch);
+
+    // subtle depth haze
+    const haze = ctx.createLinearGradient(0,0,0,ch);
+    haze.addColorStop(0,'rgba(105,200,220,.025)');
+    haze.addColorStop(.55,'rgba(17,115,145,.02)');
+    haze.addColorStop(1,'rgba(0,20,42,.09)');
+    ctx.fillStyle = haze;
+    ctx.fillRect(0,0,cw,ch);
+
+    drawSurfaceBands(t);
+
+    // irregular refracted caustic loops
+    ctx.globalCompositeOperation = 'screen';
+    for (const c of causticSeeds) {
+      drawCaustic(c,t,0);
+      if (c.rx>112) drawCaustic(c,t+.9,1);
+    }
+
+    // drifting suspended particles, intentionally very faint
+    ctx.globalCompositeOperation = 'source-over';
+    for (const p of motes) {
+      p.x += p.vx + Math.sin(t*.5+p.phase)*.012;
+      p.y += p.vy + Math.cos(t*.42+p.phase)*.01;
+      if (p.x<-4) p.x=cw+4; if (p.x>cw+4) p.x=-4;
+      if (p.y<-4) p.y=ch+4; if (p.y>ch+4) p.y=-4;
+      const pulse=.7+.3*Math.sin(t*.85+p.phase);
+      ctx.beginPath();
+      ctx.arc(p.x,p.y,p.r,0,Math.PI*2);
+      ctx.fillStyle=`rgba(205,240,245,${p.a*pulse})`;
+      ctx.fill();
+    }
+
+    // natural-looking occasional surface rings
+    if (Math.random()<.005 && ripples.length<5) {
+      ripples.push({x:Math.random()*cw,y:Math.random()*ch,r:6,life:1,stretch:.72+Math.random()*.38});
+    }
+    for (let i=ripples.length-1;i>=0;i--) {
+      const r=ripples[i];
+      r.r += .34;
+      r.life -= .0026;
+      const a=Math.max(0,r.life);
+      for (let ring=0;ring<2;ring++) {
+        ctx.beginPath();
+        ctx.ellipse(r.x,r.y,(r.r+ring*7)*1.55,(r.r+ring*7)*r.stretch,0,0,Math.PI*2);
+        ctx.strokeStyle=`rgba(180,230,238,${a*(ring===0?.040:.020)})`;
+        ctx.lineWidth=ring===0?1.05:.75;
+        ctx.stroke();
+      }
+      if (r.life<=0) ripples.splice(i,1);
+    }
+
+    drawVignette();
+    requestAnimationFrame(waterFrame);
+  }
+
+  addEventListener('resize', resizeWater);
+  resizeWater();
+  requestAnimationFrame(waterFrame);
+
+  const koi = document.getElementById('koi');
+  let x = innerWidth * 0.68;
+  let y = innerHeight * 0.52;
+  let vx = -0.75;
+  let vy = 0.18;
+  let targetX = innerWidth * 0.25;
+  let targetY = innerHeight * 0.45;
+  let last = performance.now();
+  let nextTargetAt = 0;
+
+  function chooseTarget() {
+    const margin = Math.min(innerWidth, innerHeight) * 0.12;
+    targetX = margin + Math.random() * Math.max(1, innerWidth - margin * 2);
+    targetY = margin + Math.random() * Math.max(1, innerHeight - margin * 2);
+    nextTargetAt = performance.now() + 5000 + Math.random() * 5000;
+  }
+
+  addEventListener('pointerdown', e => {
+    targetX = e.clientX;
+    targetY = e.clientY;
+    nextTargetAt = performance.now() + 8000;
+  });
+
+  function animate(now) {
+    const dt = Math.min(2.2, (now - last) / 16.6667);
+    last = now;
+
+    if (now > nextTargetAt || Math.hypot(targetX - x, targetY - y) < 90) chooseTarget();
+
+    const dx = targetX - x;
+    const dy = targetY - y;
+    const d = Math.max(1, Math.hypot(dx, dy));
+    const desiredSpeed = Math.min(2.0, 0.75 + d / 650);
+    const desiredVX = dx / d * desiredSpeed;
+    const desiredVY = dy / d * desiredSpeed;
+    const steer = 0.018 * dt;
+
+    vx += (desiredVX - vx) * steer;
+    vy += (desiredVY - vy) * steer;
+    x += vx * dt;
+    y += vy * dt;
+
+    /* Artwork points left. */
+    const heading = Math.atan2(vy, vx) * 180 / Math.PI + 180;
+    const fit = Math.min(innerWidth / 1350, innerHeight / 850);
+    const scale = Math.max(0.28, Math.min(0.76, fit));
+
+    koi.style.transform =
+      `translate3d(${x - 530}px, ${y - 325}px, 0) rotate(${heading}deg) scale(${scale})`;
+
+    requestAnimationFrame(animate);
+  }
+
+  chooseTarget();
+  requestAnimationFrame(animate);
+})();
+</script>
+</body>
+</html>
