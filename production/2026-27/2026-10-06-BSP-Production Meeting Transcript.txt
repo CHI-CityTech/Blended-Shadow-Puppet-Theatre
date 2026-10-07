@@ -1,0 +1,1571 @@
+WEBVTT
+
+00:04:32.000 --> 00:04:39.000
+David Smith: I'm starting my annotation so we have a record of this, if that's all right. Is that all right with you? Okay. So what we want to do is.
+
+00:04:35.000 --> 00:04:36.000
+Dr. Nazanin Munroe: Sure.
+
+00:04:36.000 --> 00:04:37.000
+Dr. Nazanin Munroe: Mmhm.
+
+00:04:39.000 --> 00:04:58.000
+David Smith: is that we want to go back and revisit the way that the organza, which had its issues, as you know, I mean, you were the primary person, but we now have enough time that we can build something not out of cardboard. You know, we had cardboard gears and string. Okay, it worked.
+
+00:04:47.000 --> 00:04:48.000
+Dr. Nazanin Munroe: Yeah, thank you.
+
+00:04:53.000 --> 00:04:55.000
+Dr. Nazanin Munroe: Right.
+
+00:04:57.000 --> 00:05:00.000
+Dr. Nazanin Munroe: Yeah, it worked. It got the job done.
+
+00:04:58.000 --> 00:05:08.000
+David Smith: 4 or 5 times, but now we want something that will work again and again and again and again, and we recognize that we have this opportunity now that we can.
+
+00:05:00.000 --> 00:05:01.000
+Dr. Nazanin Munroe: Yes.
+
+00:05:08.000 --> 00:05:17.000
+David Smith: start over, so to speak, in terms of how they're connected together, and start to have some discussions about how that works. So I put…
+
+00:05:16.000 --> 00:05:17.000
+Dr. Nazanin Munroe: Okay.
+
+00:05:17.000 --> 00:05:24.000
+David Smith: Ben on it. Yes. Oh, and there's Tashari. Hi, Tashari. Hi, Tashari. Look who's here. Look who's there. Hi.
+
+00:05:21.000 --> 00:05:22.000
+Dr. Nazanin Munroe: Hi.
+
+00:05:23.000 --> 00:05:25.000
+Dr. Nazanin Munroe: Good to see you.
+
+00:05:24.000 --> 00:05:40.000
+David Smith: Yes, and so also to join in, just so I can introduce around. You may not know all of these people. This is Gabriel Aguilera. So Gabriel is a senior in.
+
+00:05:35.000 --> 00:05:37.000
+Dr. Nazanin Munroe: Hi.
+
+00:05:40.000 --> 00:05:54.000
+David Smith: Entertainment Technology Emerging Media, and his focus has been on video production. He's been working on some, uh, some video server stuff that could be very useful for us, but he's gonna be focusing on that particular area.
+
+00:05:54.000 --> 00:05:58.000
+David Smith: I believe you have met Sean. There's Sean. Wave, Sean.
+
+00:05:57.000 --> 00:05:59.000
+Dr. Nazanin Munroe: Hi.
+
+00:05:58.000 --> 00:06:00.000
+David Smith: Yeah, so…
+
+00:05:59.000 --> 00:06:05.000
+Dr. Nazanin Munroe: Yeah, I think he was working on the in 2025, right? When I we did. Yeah. Okay.
+
+00:06:02.000 --> 00:06:13.000
+David Smith: That's right. Yeah, that's right. But what Sean will be doing this semester is more music and audio integration. So he's going to be focusing on that particular area.
+
+00:06:12.000 --> 00:06:14.000
+Dr. Nazanin Munroe: Cool.
+
+00:06:13.000 --> 00:06:15.000
+David Smith: Um, so…
+
+00:06:15.000 --> 00:06:18.000
+David Smith: And of course, Tashari, you know quite well.
+
+00:06:17.000 --> 00:06:20.000
+Dr. Nazanin Munroe: I know the stars. Of course I do.
+
+00:06:18.000 --> 00:06:28.000
+David Smith: Yes. And so, Tashari has written Act 3. I think Act 3 has gone to Chris, who, of course, is sitting there, eating his lunch.
+
+00:06:27.000 --> 00:06:28.000
+Dr. Nazanin Munroe: Hi!
+
+00:06:28.000 --> 00:06:38.000
+David Smith: And then so the idea is that we want to be able to revisit the first two scenes and then add a third scene.
+
+00:06:38.000 --> 00:06:41.000
+Dr. Nazanin Munroe: Good. I think it's a doable plan.
+
+00:06:38.000 --> 00:06:39.000
+David Smith: Okay.
+
+00:06:40.000 --> 00:06:42.000
+David Smith: Yeah, you got that.
+
+00:06:41.000 --> 00:06:51.000
+Dr. Nazanin Munroe: And if we know what the scene is, then I can start from the get-go with figuring out the… the sonography for that. Like, if we have the writing more or less outlined.
+
+00:06:48.000 --> 00:06:50.000
+David Smith: Uh, and what…
+
+00:06:50.000 --> 00:06:54.000
+David Smith: Yeah, or just to at least start thinking about it.
+
+00:06:53.000 --> 00:06:55.000
+Dr. Nazanin Munroe: Yeah.
+
+00:06:54.000 --> 00:07:12.000
+David Smith: Um, one of the things… okay, so I'm going to point… some of the things that we want to add this year, because every semester we add another piece of technology, another… another way of perceiving or doing stuff, and I love the idea that the piece actually not only.
+
+00:07:12.000 --> 00:07:27.000
+David Smith: evolves through the story of the two brothers, but also evolves in terms of the history of how the… how the, um, production grew. Uh, so what we want to do is that I… with the innovation grant, we bought new.
+
+00:07:27.000 --> 00:07:31.000
+David Smith: T slot. This is the newer.
+
+00:07:31.000 --> 00:07:34.000
+David Smith: What am I pointing at? There, there.
+
+00:07:32.000 --> 00:07:35.000
+Dr. Nazanin Munroe: Yeah, it's behind you, right? Yeah.
+
+00:07:34.000 --> 00:07:49.000
+David Smith: Yeah, and you can see behind it is the older one, but we added two feet to the top, so it's taller, so there's more room for the puppeteers, we have more room for mechanics and machinery, and what we want to do also is, on the two wings.
+
+00:07:40.000 --> 00:07:42.000
+Dr. Nazanin Munroe: Yeah, taller.
+
+00:07:49.000 --> 00:08:06.000
+David Smith: is that in the last two years, those merely were, uh, wings that were masking. But what we wanted, uh, we're considering this year is that we're able to, for the third scene, to drop the masking, and there are other screens behind it, and now, for the third scene, we have three.
+
+00:08:06.000 --> 00:08:23.000
+David Smith: places that things can come from. So what that means to me is that we have an opportunity here for something that might be a little more evocative or something that might be static on the two sides, but could also be injected with.
+
+00:08:09.000 --> 00:08:11.000
+Dr. Nazanin Munroe: Okay.
+
+00:08:20.000 --> 00:08:21.000
+Dr. Nazanin Munroe: Right.
+
+00:08:23.000 --> 00:08:39.000
+David Smith: what you and your students can do in terms of adding pigment and stuff. I was so pleased with the way that when we started to light your clouds and stuff, the way they looked, and we just didn't have enough time, and we didn't have enough time to do a really good job. We got it, and it worked, but.
+
+00:08:34.000 --> 00:08:35.000
+Dr. Nazanin Munroe: Sounds cool.
+
+00:08:39.000 --> 00:08:42.000
+David Smith: You know, we could spend a lot more time with that.
+
+00:08:42.000 --> 00:08:44.000
+Dr. Nazanin Munroe: Okay.
+
+00:08:43.000 --> 00:08:54.000
+David Smith: Um, a third thing that we're working with is that we recognize that shadows don't necessarily have to be physically generated at that moment in time.
+
+00:08:54.000 --> 00:09:08.000
+David Smith: that we can actually put that into the video, that we can have shadows built into the video that are activated. And what we were thinking about or looking at was how, in some of the more complex scenes, like the dragon attacking the ship.
+
+00:09:08.000 --> 00:09:20.000
+David Smith: That just never worked, because we didn't have enough hands, we didn't have enough people, and it just is that we could actually replace some of those shadows with virtual shadows, so to speak.
+
+00:09:19.000 --> 00:09:21.000
+Dr. Nazanin Munroe: Yeah, that makes sense.
+
+00:09:20.000 --> 00:09:22.000
+David Smith: Yeah, so those are…
+
+00:09:21.000 --> 00:09:23.000
+Dr. Nazanin Munroe: It's like a good approach.
+
+00:09:22.000 --> 00:09:37.000
+David Smith: Yeah, and so those are experiments. Sam has already experimented. We… we actually… Sam has some shadowed puppets that respond to hand gestures on… on the web, and Sam, you can share that when you… when we sort of work our way around, or, you know.
+
+00:09:37.000 --> 00:09:39.000
+Dr. Nazanin Munroe: Is that with, like, a motion sensor?
+
+00:09:39.000 --> 00:09:55.000
+David Smith: It's like if you go like this, it goes up. And if you go — it's fairly — it's the camera sensor on the computer. And he's done it in HTML4. And HTML4 can do some of that type of stuff.
+
+00:09:43.000 --> 00:09:45.000
+Dr. Nazanin Munroe: Okay.
+
+00:09:47.000 --> 00:09:48.000
+Dr. Nazanin Munroe: Mmhm.
+
+00:09:55.000 --> 00:09:56.000
+Dr. Nazanin Munroe: Awesome.
+
+00:09:56.000 --> 00:10:06.000
+David Smith: Um, of course, also, we have this idea that I want, uh, Chris to present about the idea of developing little intermetcy.
+
+00:10:06.000 --> 00:10:22.000
+David Smith: Um, between the main scenes and introduce a different type of puppetry. You want to talk about that? Sure, just very quick. Yeah, so I thought a good way maybe to start it, maybe not in between, but maybe as an introduction, is we could try to do a historically accurate 13th century.
+
+00:10:22.000 --> 00:10:28.000
+David Smith: seen using, um, puppets, because, you know, the research I was doing last summer.
+
+00:10:28.000 --> 00:10:29.000
+Dr. Nazanin Munroe: Mm-hmm.
+
+00:10:28.000 --> 00:10:30.000
+David Smith: I'm sorry.
+
+00:10:30.000 --> 00:10:37.000
+David Smith: I have some images of some old Mamluk puppets. And so we know what this how to stencil them.
+
+00:10:36.000 --> 00:10:37.000
+Dr. Nazanin Munroe: Right.
+
+00:10:37.000 --> 00:10:53.000
+David Smith: create the texture across, they're really interesting. And then, um, I'm about to publish something about how they were manipulated, and we can try… it was either, like, manipulated from the back, because sometimes you do shadow puppetry where you have a stick in the back, like, at a perpendicular angle, like this.
+
+00:10:52.000 --> 00:10:54.000
+Dr. Nazanin Munroe: Mm-hmm, right.
+
+00:10:53.000 --> 00:11:04.000
+David Smith: So you could even be far away, and the light source would be up here, not just right behind, necessarily. And then you can do twirl, you can do different things, or from bottom, like what we did last time.
+
+00:11:04.000 --> 00:11:13.000
+David Smith: But there's a scene from an Arabic play from that period. It's very funny. It's kind of bawdy. It's a little dirty.
+
+00:11:13.000 --> 00:11:15.000
+Dr. Nazanin Munroe: Do you want to send it to me?
+
+00:11:15.000 --> 00:11:18.000
+Dr. Nazanin Munroe: Like, just so I can get the idea of, like, what it is.
+
+00:11:18.000 --> 00:11:21.000
+David Smith: Yeah, it's basically an introduction.
+
+00:11:19.000 --> 00:11:23.000
+Dr. Nazanin Munroe: Was it from that Edna Danielle that you talked about? Okay.
+
+00:11:21.000 --> 00:11:25.000
+David Smith: Yes, from Danielle. So this —.
+
+00:11:25.000 --> 00:11:41.000
+David Smith: I thought maybe just as an introduction to the more technologically advanced show, we could do say, well, this is how traditionally it was done in the 13th century. I don't know if we can get a lamp, an oil lamp inside. We can fake an oil lamp. Yeah, we can fake an oil lamp. Unifire code.
+
+00:11:33.000 --> 00:11:34.000
+Dr. Nazanin Munroe: Right.
+
+00:11:41.000 --> 00:11:44.000
+David Smith: Yeah. Disallowed. Any open for me.
+
+00:11:41.000 --> 00:11:44.000
+Dr. Nazanin Munroe: Yeah, I think it's a fire hazard.
+
+00:11:44.000 --> 00:12:00.000
+David Smith: Pretend this is a lamp. And we'll get one that glows like a — Something like that. And we could just match the lumens or whatever and do that. And then just have a short, very simple show of like, OK, here's the thing because the leather puppets are used across all traditions.
+
+00:11:55.000 --> 00:11:57.000
+Dr. Nazanin Munroe: Like a demo?
+
+00:12:00.000 --> 00:12:01.000
+Dr. Nazanin Munroe: Right.
+
+00:12:00.000 --> 00:12:18.000
+David Smith: So, in a way, it's a good introduction even to the Indonesian style, but, you know… And I don't mind the idea, also, that traditional intermezzo is interwoven with the piece, so we also have two scenes. There could be little moments, right, where they pop up, like the Arabic guys come along and say, hey, wait a second, yeah, we all…
+
+00:12:18.000 --> 00:12:32.000
+David Smith: Maybe they comment on what they saw. Exactly. Like the two old guys in the Muppets that sit up in the… Yeah, yeah. They sit up in the… Yeah, like, they're just… And they say, boy, that was stupid. Yeah, yeah. Or whatever. I love those guys. Yeah.
+
+00:12:24.000 --> 00:12:26.000
+Dr. Nazanin Munroe: Right.
+
+00:12:26.000 --> 00:12:27.000
+Dr. Nazanin Munroe: Yes.
+
+00:12:27.000 --> 00:12:28.000
+Dr. Nazanin Munroe: Thank you.
+
+00:12:32.000 --> 00:12:33.000
+Dr. Nazanin Munroe: Yeah.
+
+00:12:32.000 --> 00:12:48.000
+David Smith: Marley and Marley, the puppet. Is that their name in the in the Christmas Carol. I'm thinking there's in the puppets. They have a scene where they're watching a show, and then they have 2 old men. It's like Statler is Statler and somebody. They're in the box seats.
+
+00:12:47.000 --> 00:12:53.000
+Dr. Nazanin Munroe: Yeah, they're like crotchety. Yeah, yeah. These guys don't remember because they're young.
+
+00:12:49.000 --> 00:12:52.000
+David Smith: They're cracking it open. Yeah.
+
+00:12:52.000 --> 00:12:54.000
+David Smith: Yeah, yeah, yeah.
+
+00:12:54.000 --> 00:13:12.000
+David Smith: I learned well there. So, um, how this would extend, though, too, is that on May, hopefully, I'm going to go to meet a couple of people at a conference who want to actually stage the entire Arabic play, and they've asked me to get involved because they know of the work that we've been doing.
+
+00:13:12.000 --> 00:13:13.000
+Dr. Nazanin Munroe: Mm-hmm.
+
+00:13:12.000 --> 00:13:17.000
+David Smith: There's a new translation that's coming out, and they want to stage it in New York.
+
+00:13:16.000 --> 00:13:18.000
+Dr. Nazanin Munroe: Oh, great.
+
+00:13:17.000 --> 00:13:33.000
+David Smith: This would be a great sort of like, okay, if I can take some puppets with me in May, and say, well, this is what we build, and a video, we can show a video of what we've done, they could say, oh, great, and then, you know, we can build from there. But this, the translation is still ongoing, so this is probably, like, a two…
+
+00:13:33.000 --> 00:13:38.000
+David Smith: looking two years down the road. Well, that's fine. That's how far ahead we want to look for these people.
+
+00:13:34.000 --> 00:13:36.000
+Dr. Nazanin Munroe: Okay.
+
+00:13:37.000 --> 00:13:40.000
+Dr. Nazanin Munroe: That's good. Yeah, I think we want that long.
+
+00:13:39.000 --> 00:13:55.000
+David Smith: Yeah, yeah, yeah, yeah. So, yeah, I think that that's sort of… we have a better audio system, we have better lighting, more projectors, so I got 4 more projectors under the innovation grant that we can use, so we have a lot of gear.
+
+00:13:55.000 --> 00:14:02.000
+David Smith: And I think that sort of frames it a little bit about the directions that we can go.
+
+00:14:02.000 --> 00:14:03.000
+David Smith: Um…
+
+00:14:03.000 --> 00:14:22.000
+David Smith: Yeah, so I don't want to go any further than that. You know, it's easy to keep throwing stuff. This is enough parallel projects. The goal eventually is that we can put together a touring package that we can then market to high schools, junior high schools, as sort of a cultural activity event type of a thing.
+
+00:14:22.000 --> 00:14:30.000
+David Smith: And then, you know, start to generate a small production company and get some scuttlebutt from that as well.
+
+00:14:30.000 --> 00:14:32.000
+David Smith: Yeah. So.
+
+00:14:31.000 --> 00:14:34.000
+Dr. Nazanin Munroe: Sounds good. Can I throw in one more thing to think about?
+
+00:14:32.000 --> 00:14:33.000
+David Smith: Yep.
+
+00:14:33.000 --> 00:14:38.000
+David Smith: Yes, and you get to throw in something, too.
+
+00:14:35.000 --> 00:14:49.000
+Dr. Nazanin Munroe: It's a textile thing, but I was thinking about Song of the North when we went to go see that on Broadway. And one of the things that they did with the human shadow puppets.
+
+00:14:42.000 --> 00:14:44.000
+David Smith: Mm-hmm. Mm-hmm.
+
+00:14:49.000 --> 00:14:54.000
+Dr. Nazanin Munroe: Which was so cool, but they incorporated these pieces of fabric that had…
+
+00:14:54.000 --> 00:15:01.000
+Dr. Nazanin Munroe: like, lace and fabrics that were maybe laser-cut, so that… that added another dimension, and I'm wondering…
+
+00:14:57.000 --> 00:14:59.000
+David Smith: Mm-hmm.
+
+00:15:01.000 --> 00:15:06.000
+Dr. Nazanin Munroe: Not just the… creating the… the sort of…
+
+00:15:06.000 --> 00:15:07.000
+David Smith: Organza, yeah.
+
+00:15:06.000 --> 00:15:12.000
+Dr. Nazanin Munroe: You're seeing, but also maybe using fabric in the back to create more texture.
+
+00:15:11.000 --> 00:15:15.000
+David Smith: Oh, perfect! Because this is, I was also thinking, we have this grid.
+
+00:15:16.000 --> 00:15:17.000
+Dr. Nazanin Munroe: Yeah.
+
+00:15:16.000 --> 00:15:37.000
+David Smith: I have all that projection cloth that we bought to test. So different flavors and things, and they're all six feet by 22 feet or something like that. And if we need more, of course, we can purchase more. But if you want to take some of that and play with it, I'm just imagining, thinking of your other artwork, how we could drape.
+
+00:15:22.000 --> 00:15:23.000
+Dr. Nazanin Munroe: Right.
+
+00:15:37.000 --> 00:15:53.000
+David Smith: the room, and then light this, and the lights could also be integrated later, you know, so that the lights can dim or stuff, and that would be a really nice project, because you could… you could assign multiple students different pieces. I mean, I leave that up to you. You're the…
+
+00:15:38.000 --> 00:15:40.000
+Dr. Nazanin Munroe: Yeah. Okay.
+
+00:15:53.000 --> 00:16:07.000
+Dr. Nazanin Munroe: Yeah, no, that's… I think we're thinking along the same lines. It's definitely doable, and there are, like, easy… relatively easy ways to do it, where I could give some things to my intro class and some things to the more advanced class, and so we'll do it that way.
+
+00:16:05.000 --> 00:16:07.000
+David Smith: Mm-hmm.
+
+00:16:07.000 --> 00:16:12.000
+David Smith: Yeah, you want some stars? Give it to the intro because they're stepping stars, you know, or whatever. Okay.
+
+00:16:11.000 --> 00:16:13.000
+Dr. Nazanin Munroe: Yeah, exactly.
+
+00:16:12.000 --> 00:16:20.000
+David Smith: Great. No, I love that idea. In fact, that's always been in my head because I think we can make this room much more attractive by going in that direction.
+
+00:16:18.000 --> 00:16:19.000
+Dr. Nazanin Munroe: Right.
+
+00:16:20.000 --> 00:16:23.000
+David Smith: Good. I have a…
+
+00:16:21.000 --> 00:16:23.000
+Dr. Nazanin Munroe: Sounds good.
+
+00:16:23.000 --> 00:16:39.000
+David Smith: Okay, so yeah, I want to, I want to go around then a little bit and just for people to lay down a couple of markers, questions, etc. I'm going to hold your thought, just hold your thought, write it down if you, and then, uh, because I wanted to go to Ben. Ben and I have been talking, uh, quite a bit about.
+
+00:16:40.000 --> 00:16:42.000
+David Smith: Refining.
+
+00:16:42.000 --> 00:16:59.000
+David Smith: the mechanics. Yes. So… Okay, so, um, I think my big project right now is actually what we've been working on as a need, which is that organza scroll, and, uh, you know, just to visualize a little bit, I don't know if that'll focus, but right up here, it's like, we want to do the horizontal thing, basically, and that's all I'm really trying to show.
+
+00:16:55.000 --> 00:16:56.000
+Dr. Nazanin Munroe: Yeah.
+
+00:16:59.000 --> 00:17:12.000
+David Smith: And then, um, some of the problems that might come up with that. But what I really want to try and preserve this time around is the ability to scroll through, sort of, multiple without, um…
+
+00:17:00.000 --> 00:17:01.000
+Dr. Nazanin Munroe: Okay.
+
+00:17:12.000 --> 00:17:30.000
+David Smith: I don't know, without it kind of just, like, falling on the floor and getting all dirty, and, like, really preserving the actual organza piece, because that wasn't a huge consideration last time. So, um, I don't have a lot of technical questions yet, because I would need to just kind of see, like, a massive piece of fabric and, like, put it under tension and all that.
+
+00:17:16.000 --> 00:17:17.000
+Dr. Nazanin Munroe: Yeah.
+
+00:17:30.000 --> 00:17:32.000
+David Smith: But, um, I guess…
+
+00:17:31.000 --> 00:17:39.000
+Dr. Nazanin Munroe: If you need fabric, you can go talk to Morelia. Did you meet Morelia? She's my lab tech.
+
+00:17:34.000 --> 00:17:36.000
+David Smith: Okay.
+
+00:17:36.000 --> 00:17:37.000
+David Smith: We're.
+
+00:17:38.000 --> 00:17:47.000
+David Smith: I'll bring them up. Okay. I'll bring… or you… if you… if you just tell Morelia I'm heading up at some point, and I'll reach in touch with her, you know.
+
+00:17:39.000 --> 00:17:41.000
+Dr. Nazanin Munroe: Yeah, yeah, yeah.
+
+00:17:46.000 --> 00:17:58.000
+Dr. Nazanin Munroe: Yeah, I'm also coming in in a couple of weeks to do a lecture. Maybe I can just, um… I can grab a roll of organza, and I'll give it to David, and he can have it down in your… in your lab, so you don't have to worry about it.
+
+00:17:50.000 --> 00:17:52.000
+David Smith: Oh, the…
+
+00:17:57.000 --> 00:17:58.000
+David Smith: Okay.
+
+00:17:58.000 --> 00:18:03.000
+David Smith: Yeah, yeah, that'd be perfect. What is the day? Because I'll be in Vienna from the 16th through the 22.
+
+00:18:02.000 --> 00:18:06.000
+Dr. Nazanin Munroe: Oh, and of course, I'm there on the 20th.
+
+00:18:05.000 --> 00:18:09.000
+David Smith: Of course, but I'm getting I'm getting pretty.
+
+00:18:07.000 --> 00:18:10.000
+Dr. Nazanin Munroe: I can give it to Chris if that's okay.
+
+00:18:09.000 --> 00:18:15.000
+David Smith: Yeah. But the other thing I want — I'm seeing you for that lecture. Oh. Yeah, I got it.
+
+00:18:12.000 --> 00:18:21.000
+Dr. Nazanin Munroe: Yeah, I'll see you for that lecture. So I can grab the organza and just hand it off to you. You can just, um… I mean, it kind of has to be somewhere safe, because it's expensive, but…
+
+00:18:20.000 --> 00:18:32.000
+David Smith: Well, what I'm doing is I'm putting in a key request. I want to give you a key to the room, and Chris a key, you know, so that… and they have to be faculty. I can't… I can't get them to give it to students, but…
+
+00:18:26.000 --> 00:18:27.000
+Dr. Nazanin Munroe: Okay.
+
+00:18:30.000 --> 00:18:34.000
+Dr. Nazanin Munroe: Right. I mean, I could also get you a key to the lab, couldn't I?
+
+00:18:33.000 --> 00:18:37.000
+David Smith: Yes, absolutely. It's your lab.
+
+00:18:35.000 --> 00:18:40.000
+Dr. Nazanin Munroe: We should… why don't we put in those requests, sort of, together?
+
+00:18:39.000 --> 00:18:43.000
+David Smith: OK, that sounds good. And because I feel —.
+
+00:18:43.000 --> 00:18:51.000
+David Smith: I mean, I'm here a lot, but I… I feel a little burdened that it's only open if I'm here, and it's closed if I'm not, and that.
+
+00:18:49.000 --> 00:18:52.000
+Dr. Nazanin Munroe: I know I have the same problem with my lab.
+
+00:18:51.000 --> 00:19:02.000
+David Smith: Yeah, so you get it. So I'd like to, you know, my co-researcher, faculty, artistic partners, et cetera, should all have access to the space as well.
+
+00:18:52.000 --> 00:18:54.000
+Dr. Nazanin Munroe: Yeah.
+
+00:19:01.000 --> 00:19:02.000
+Dr. Nazanin Munroe: Sure.
+
+00:19:02.000 --> 00:19:11.000
+David Smith: So okay, okay, good. And I think the important part here is that we're investigating the idea of the horizontal role, which I think was your original idea. Yes.
+
+00:19:08.000 --> 00:19:09.000
+Dr. Nazanin Munroe: Right.
+
+00:19:10.000 --> 00:19:19.000
+Dr. Nazanin Munroe: It was, but I'm now thinking it means we have to redo those pieces, which is maybe okay. I mean, that's okay. If we have to redo them, we'll redo them.
+
+00:19:18.000 --> 00:19:43.000
+David Smith: What we were thinking is that there was one, and maybe this is wrong, but this is what we were speculating. If we could get one long, uninterrupted, unbroken piece of organza that the things are put onto. I know that breaks the idea of modularity, but that might improve stability. That might, I was thinking. I don't know. I was wondering, I wanted to hear your thoughts on this now, Zanita. Is there any way to sort of.
+
+00:19:43.000 --> 00:20:02.000
+David Smith: make a piece that allows some modularity of the actual, like, parts, like a tree or a cloud, able to be movable? Because I… Okay, that'd be perfect, because what I want to avoid is you having to make the entire scene on the first go, and if, like, any of the production team wants to make changes to the story.
+
+00:19:51.000 --> 00:19:53.000
+Dr. Nazanin Munroe: Oh, yeah, sure.
+
+00:20:02.000 --> 00:20:09.000
+David Smith: But we have this whole, like, roll that's already set up, so we'd have to scroll past things to get to different spots, you know what I mean?
+
+00:20:08.000 --> 00:20:16.000
+Dr. Nazanin Munroe: Right. Let me think about the best way to do that. I mean, definitely there's a way to do it, but.
+
+00:20:12.000 --> 00:20:13.000
+David Smith: Okay.
+
+00:20:15.000 --> 00:20:17.000
+David Smith: Mm-hmm.
+
+00:20:16.000 --> 00:20:20.000
+Dr. Nazanin Munroe: The problem with removing things is sometimes they'll fall off by themselves.
+
+00:20:20.000 --> 00:20:22.000
+David Smith: Yeah, I would.
+
+00:20:20.000 --> 00:20:29.000
+Dr. Nazanin Munroe: I mean, I can do it removably in the sense that the tree is a separate piece of fabric that then gets put on top of our base fabric.
+
+00:20:28.000 --> 00:20:30.000
+David Smith: Oh, okay.
+
+00:20:29.000 --> 00:20:31.000
+Dr. Nazanin Munroe: But we have to think about how we want to attach it.
+
+00:20:31.000 --> 00:20:35.000
+David Smith: Yeah, and then how much light we need to kind of penetrate through all those layers. Okay.
+
+00:20:34.000 --> 00:20:41.000
+Dr. Nazanin Munroe: I mean, we can start by working with it that way, and just pin it on, and then if we need to move things, we can move them.
+
+00:20:40.000 --> 00:20:43.000
+David Smith: Okay, that sounds perfect.
+
+00:20:41.000 --> 00:20:44.000
+Dr. Nazanin Munroe: Is that a good way to start, maybe?
+
+00:20:43.000 --> 00:20:51.000
+David Smith: Yeah, because I think the second we get stuff attached to a rig and start seeing how it actually rolls around, that'll be when we can start making those decisions.
+
+00:20:50.000 --> 00:20:56.000
+Dr. Nazanin Munroe: Okay, we'll see what we can do with that then. Um, I do think that…
+
+00:20:51.000 --> 00:20:53.000
+David Smith: Okay.
+
+00:20:56.000 --> 00:21:00.000
+Dr. Nazanin Munroe: You asked if we can make it one continuous piece.
+
+00:20:59.000 --> 00:21:03.000
+David Smith: Just a question. Yeah, I was just looking for.
+
+00:21:01.000 --> 00:21:13.000
+Dr. Nazanin Munroe: Yeah, I mean, theoretically, yes, but if you're sewing directly onto that super long piece with a machine, it's really hard, because then you've got this ton of fabric, but if you're sewing by hand, it's fine.
+
+00:21:08.000 --> 00:21:10.000
+David Smith: Okay. Okay.
+
+00:21:12.000 --> 00:21:15.000
+David Smith: So, what about…
+
+00:21:13.000 --> 00:21:18.000
+Dr. Nazanin Munroe: I love sewing by hand, but my students have a really hard time with it, because they didn't learn.
+
+00:21:16.000 --> 00:21:18.000
+David Smith: What a…
+
+00:21:18.000 --> 00:21:24.000
+David Smith: What about a super long piece that we attach each of the panels to that are sewn.
+
+00:21:23.000 --> 00:21:25.000
+Dr. Nazanin Munroe: That we can do.
+
+00:21:25.000 --> 00:21:28.000
+David Smith: Because, I mean, I'm just thinking…
+
+00:21:28.000 --> 00:21:44.000
+David Smith: Under the hood, organza is delicate. And if we start putting tension on it, and you know that as careful as we were, we hurt it sometimes. Yeah, we would have to put a lot of tension to keep, like, because if it's going to have weight in the middle and it has to stretch that distance, we're going to have to put a lot of…
+
+00:21:44.000 --> 00:21:49.000
+David Smith: tension on the organza. It might need to have flat. See these? Look.
+
+00:21:49.000 --> 00:21:54.000
+David Smith: I'm not suggesting those exactly, but the whole idea that there's a rail on the top. Middle to hold it straight. I'd have to.
+
+00:21:53.000 --> 00:22:09.000
+Dr. Nazanin Munroe: I mean, I think our problem was that the organza was sheerer than anything else. It was more translucent than anything else we thought about. Wasn't that our big issue, David? Isn't that why we sort of defaulted to organza? Because we couldn't find something that had that transparency.
+
+00:22:09.000 --> 00:22:19.000
+David Smith: Yeah, we defaulted to organza because we wanted the organza to disappear in scenes that we didn't have anything and that people didn't notice it.
+
+00:22:10.000 --> 00:22:11.000
+Dr. Nazanin Munroe: That was synthetic.
+
+00:22:15.000 --> 00:22:17.000
+Dr. Nazanin Munroe: Right.
+
+00:22:19.000 --> 00:22:28.000
+Dr. Nazanin Munroe: Right, so it was a translucency issue. So if we can find something that matches the translucency of that fabric, then I have no problem with that.
+
+00:22:19.000 --> 00:22:21.000
+David Smith: So.
+
+00:22:22.000 --> 00:22:24.000
+David Smith: Put it down.
+
+00:22:24.000 --> 00:22:25.000
+David Smith: Maybe.
+
+00:22:28.000 --> 00:22:30.000
+David Smith: Okay. Yep.
+
+00:22:28.000 --> 00:22:31.000
+Dr. Nazanin Munroe: We just have to look around.
+
+00:22:30.000 --> 00:22:38.000
+David Smith: You know, the other option is that we consider that we're actually putting it on projection screen because we're projecting through it.
+
+00:22:39.000 --> 00:22:45.000
+David Smith: And then we don't need the projection screen because it's built into this. Yeah. I guess so. And that's…
+
+00:22:45.000 --> 00:23:03.000
+David Smith: I'm just throwing ideas out, right? I mean, that's all we're speculating right now. So we could take a look at that. I can give you a roll of projection fabric that you can experiment with, and then we think about the organza. I mean, I love the way the organza looks, and I remember that one of the things we wanted to do was that the organza was offset, so we could.
+
+00:22:46.000 --> 00:22:48.000
+Dr. Nazanin Munroe: Yeah.
+
+00:23:03.000 --> 00:23:12.000
+David Smith: we could move the puppets in front. We never did it. It never worked out, but that's another option that the organza gives us.
+
+00:23:05.000 --> 00:23:07.000
+Dr. Nazanin Munroe: Right.
+
+00:23:12.000 --> 00:23:17.000
+David Smith: Anyway, so that's, I think, where we are in terms of that particular part of the project.
+
+00:23:16.000 --> 00:23:21.000
+Dr. Nazanin Munroe: Yeah, but when you figure out the mechanism, the rest of it, I think, will fall into place.
+
+00:23:20.000 --> 00:23:23.000
+David Smith: Okay. All right. That sounds good.
+
+00:23:21.000 --> 00:23:24.000
+Dr. Nazanin Munroe: We can work around the mechanism.
+
+00:23:23.000 --> 00:23:28.000
+David Smith: Okay, I gotcha. I just didn't know how much, like, we had to work around. Okay, that makes sense.
+
+00:23:27.000 --> 00:23:30.000
+Dr. Nazanin Munroe: No, no, we'll work around you. I think it's easier.
+
+00:23:30.000 --> 00:23:31.000
+David Smith: Okay. All right.
+
+00:23:30.000 --> 00:23:33.000
+Dr. Nazanin Munroe: That's that's what we found out, right?
+
+00:23:32.000 --> 00:23:37.000
+David Smith: Last time when it was a little bit more scrappy, but I'm hoping to kind of.
+
+00:23:35.000 --> 00:23:39.000
+Dr. Nazanin Munroe: It's okay. Things are always clunky when you're prototyping.
+
+00:23:38.000 --> 00:23:51.000
+David Smith: Yeah. And I just had one more question kind of for the group. Yeah. How much of the mechanisms and like the mechanical components do we want to be visual? Do we want that to play a part in the performance or should that be more so hidden away?
+
+00:23:51.000 --> 00:23:52.000
+David Smith: Bye.
+
+00:23:51.000 --> 00:23:53.000
+Dr. Nazanin Munroe: Great question.
+
+00:23:52.000 --> 00:24:08.000
+David Smith: I don't mind. Well, I I think, having having some parts exposed wouldn't play a difference, because we still it would still have the magic of seeing behind the screen like even our very 1st performance.
+
+00:24:08.000 --> 00:24:34.000
+David Smith: we recorded the back and the front. Okay, so a live time. So so it was very nice to have both of these. The only part would be like blending them in so it would not stick out. Right? Right? Right? But you're talking about like the gears and the cranks. Well, I'm talking about depending on how we want it to like it can work a billion different ways. But do we want to lean towards a way that looks really cool from the outside, or something that looks really discreet, and you don't really notice it.
+
+00:24:24.000 --> 00:24:25.000
+Dr. Nazanin Munroe: Okay.
+
+00:24:34.000 --> 00:24:50.000
+David Smith: like, I can make it so that it looks like there's, like, pegs and wheels. It's like a Da Vinci contraption. Yeah, or a steampunk or something. Yeah, or we can make it just, like, almost like the one we have over here, where you push a button, it's just like… and just hide there and then. Yeah, I think… I think cool, like, just, you know.
+
+00:24:50.000 --> 00:25:03.000
+David Smith: To show, like, all of that, of the process of, like… Okay. Yeah, but one thing we don't want to do is reveal that we're gonna… about to do something. So if it's… if it's visual in the first act, people are gonna say, hmm, I wonder what that is.
+
+00:25:03.000 --> 00:25:24.000
+David Smith: Oh, okay. Maybe in a sense, we could put things semi-hidden. So I watched this puppet production, and they had, like, a goose puppet. But the goose itself, it was just a body, and the person that was controlling it was in a black suit. That's like Balloon Rakut, isn't it? And then two other people, they were controlling the wings, but they were separate puppets.
+
+00:25:24.000 --> 00:25:41.000
+David Smith: So when the goose was spreading on its wings, they had two people come up in black suits and sprout the wings. And you could see the people behind it, but the visual focus is on the puppet alone. Well, that's part of the fourth wall. You say, ignore them.
+
+00:25:41.000 --> 00:25:49.000
+David Smith: The audience knows to ignore them, even though they know they're there. Yeah, I thought I saw the you're more so referencing like.
+
+00:25:49.000 --> 00:26:13.000
+David Smith: just having something sitting there and not being used. So it's just like the dragon puppet when we brought out on stage like we didn't. We didn't really have like they knew to focus on the puppet itself, but not on the person behind it. So so even if we change the size of anything, it wouldn't really matter as long as it's visually appealing. One solution would be, maybe, is to use the scrim.
+
+00:26:13.000 --> 00:26:28.000
+David Smith: from the very beginning. That way, people aren't waiting in anticipation to say, well, what is that thing up there, and when is it going to be used? Just use it right from the start, and then you can pull it up at some point. Okay. And when you didn't need it. I know… But if you set the convention from the beginning, then…
+
+00:26:28.000 --> 00:26:44.000
+David Smith: Right. Because I also know in some capacities, even seeing that thing will be like, oh, man, I wonder what that's going to be. It will kind of help keep your attention throughout the thing, just like a YouTube thing. But that's like a plot device that gets used sometimes. I was also speculating if we can make the experience more immersive.
+
+00:26:44.000 --> 00:26:59.000
+David Smith: Uh, since we already have the, uh, surround sound, and I was thinking, what if in some scenes, if we had the, uh, the ocean scene, we could have fog machines and, and really nice lighting. That would bring the audience in, you'll feel like you're actually part of the plane.
+
+00:26:59.000 --> 00:27:16.000
+David Smith: Yeah, yeah, like log machines and stuff that could definitely get incorporated. Yeah, and lighting is a major aspect of our show, too. So what if you can also play around? We have a whole rack up there. We can also display lighting onto the floor. Yeah, definitely. And people are not going to notice.
+
+00:27:16.000 --> 00:27:37.000
+David Smith: that's going to fit exactly into what Nazanin was talking about in terms of adding these additional layers of texture to really sort of set the scene of the stage. And we would just say, this is another element that's part of it, because maybe those things can turn into the night sky in the ocean with the waves on all 3 of the.
+
+00:27:37.000 --> 00:27:57.000
+David Smith: of all three of the screens, even though the center of attention is still in the front scene. Yes. Yeah. That's all design, to me, so… I didn't want to hold you guys up too much, I know we want to get it moving, and I don't need really… No, no, no, this is fine. Okay. I also don't need a definitive answer on this now, I just want it to be something we think about a little bit, and so once I get to, like, the final refinement, it.
+
+00:27:57.000 --> 00:28:00.000
+David Smith: Do I want to put a shell on this or do we want to see it? You know.
+
+00:28:00.000 --> 00:28:02.000
+David Smith: They're just something to think about.
+
+00:28:02.000 --> 00:28:03.000
+David Smith: Right.
+
+00:28:03.000 --> 00:28:05.000
+David Smith: Good. Okay, Sean.
+
+00:28:05.000 --> 00:28:17.000
+David Smith: Hi. So Sean's working music surround. Do you have anything you want to ideas or things you were thinking about in terms of how to better integrate this year? I was thinking.
+
+00:28:17.000 --> 00:28:19.000
+David Smith: Um, I've been getting into, like, Foley.
+
+00:28:19.000 --> 00:28:36.000
+David Smith: I kind of want to incorporate that into. Oh, I love the idea. Yeah, you know. Sam alluded to the idea of like an ocean scene or something. I could like literally hop down a shore parkway with my microphone. And just that's not fully. That's not fully. No, I'll show you what that is. Well, Foley is like using props. Right? Yep.
+
+00:28:36.000 --> 00:28:41.000
+David Smith: And recording across to a folding studio in New York.
+
+00:28:41.000 --> 00:28:49.000
+David Smith: Oh, it's okay. I've seen that place. Yeah. So here is the brain, right? Yeah.
+
+00:28:51.000 --> 00:28:57.000
+David Smith: But, you know, the idea of… I mean, I love the idea of…
+
+00:28:57.000 --> 00:29:08.000
+David Smith: I hadn't thought about it, but the idea of having some Foley anyway, it would be cool, and then recording the Foley, and then having layers of recorded Foley on top of the Foley.
+
+00:29:08.000 --> 00:29:18.000
+David Smith: I'm not sure exactly where that fits, but I can certainly see how it could, and we would want to then deconstruct this script. Yeah, definitely, because I remember the last time we put it on.
+
+00:29:18.000 --> 00:29:22.000
+David Smith: I took a lot of samples off the web, and I think…
+
+00:29:22.000 --> 00:29:26.000
+David Smith: if we want to take this to the next level, I think it would be better to kind of…
+
+00:29:26.000 --> 00:29:42.000
+David Smith: cater and contour the sounds towards the specificity of the project. Yeah, no, a lot of the stuff we did was like, oh, we have 2 minutes, let's get something in there. Yeah. So now we don't. We have several months, so we can really work on that. Once we nail down.
+
+00:29:42.000 --> 00:29:50.000
+David Smith: And then also music, right? You're interested in doing some musical composition. I was wondering, actually, I still haven't received a definitive answer.
+
+00:29:50.000 --> 00:29:53.000
+David Smith: What the theme of the music we're looking for is.
+
+00:29:53.000 --> 00:30:09.000
+David Smith: So I've just been, I've just been like working on stuff that I could spit. Well, the idea is that it's a fused musion with Gamelan. So we want to, we want to go to Gamelan as one of our sources. We also have this opportunity of working with.
+
+00:30:09.000 --> 00:30:19.000
+David Smith: Yolana Sari, though we didn't have the grant this year, and I haven't reached out, but I think they expressed, actually, quite a bit of interest in the idea, because Gamelan is traditional.
+
+00:30:19.000 --> 00:30:30.000
+David Smith: um, performance with, um, Shadow Puppet. So, uh, the idea that we could, at some point, put together a performance with them, even if it doesn't happen this year.
+
+00:30:30.000 --> 00:30:37.000
+David Smith: is something that we can consider. And I'd like to know what the setting is.
+
+00:30:37.000 --> 00:30:45.000
+David Smith: Well, you have to talk to the playwright. So actually, why don't we do that? Moving on to playwright.
+
+00:30:45.000 --> 00:30:47.000
+David Smith: Yeah, so, um, I…
+
+00:30:47.000 --> 00:30:53.000
+David Smith: I made the first revision to the script that Professor Swift wrote.
+
+00:30:54.000 --> 00:31:01.000
+David Smith: Edited and sent back to me. So that's on the Google Docs as well. I didn't bring my laptop, so I can bring it up.
+
+00:31:01.000 --> 00:31:08.000
+David Smith: Well, send us links. Yeah. Put it on to — are we all on Blended Shadow Puppet? Yeah, I think — Discord?
+
+00:31:09.000 --> 00:31:11.000
+David Smith: Who isn't?
+
+00:31:10.000 --> 00:31:12.000
+Dr. Nazanin Munroe: Is it the same as before?
+
+00:31:11.000 --> 00:31:18.000
+David Smith: Yeah, I haven't changed it. Did you get anything from today? No, it's a new one. Wait, no, there is the old one.
+
+00:31:19.000 --> 00:31:27.000
+David Smith: Uh, Sam gave me the new one when I tried to… Yeah. …run on the old one. Yeah, there's a new one.
+
+00:31:27.000 --> 00:31:35.000
+David Smith: But I'm not sure why we would move to a new one if we have the group. Because you've been posting on it.
+
+00:31:35.000 --> 00:31:42.000
+David Smith: No, it's fine, it's fine, I don't care. I just, we do want to pick one and only one to, uh…
+
+00:31:42.000 --> 00:31:59.000
+David Smith: to work on in terms of communications, because otherwise we're going to be crossing in the dark. Well, are there going to be new people working on from the summer? Are they going to work with us? The summer was a different group. Okay. That was, that was the chief, that's chief fellows. Everyone will be part of chief fellows, but that's every.
+
+00:31:59.000 --> 00:32:08.000
+David Smith: One of the projects, right? Okay. This is the shadow puppet project. So even though we're all chief fellows on the general one.
+
+00:32:08.000 --> 00:32:16.000
+David Smith: you don't need to send to the general, like, oh, I have a new gear sprocket, right? That would go to the… to this group. So that's the way I'm thinking about it.
+
+00:32:16.000 --> 00:32:17.000
+David Smith: Yeah. Okay.
+
+00:32:17.000 --> 00:32:23.000
+David Smith: So, I will put links, um, on the files, chat, and, um…
+
+00:32:23.000 --> 00:32:35.000
+David Smith: Yeah, I made the first revision. So the next thing would be to have Swift look it over again and see if you wanted to make any other suggestions or anything.
+
+00:32:35.000 --> 00:32:53.000
+David Smith: And then the next step is like puppets, just trying to — I know Sam was talking about leather material. Well, Chris just signed off thumbs up on what he saw. Great. The new material is perfect. Let me show it to Nas. It's partially translucent, so you could even find —.
+
+00:32:53.000 --> 00:33:07.000
+David Smith: I mean… We can maybe paint it. Well, you can paint it, for sure. Yeah. And then, uh, maybe some light could shine through it and cast color, I'm not sure. Depends on… It had to be a pretty strong lamp, but… That's pretty thick, too.
+
+00:33:07.000 --> 00:33:09.000
+David Smith: It's water buffalo hide.
+
+00:33:09.000 --> 00:33:11.000
+Dr. Nazanin Munroe: Wow.
+
+00:33:10.000 --> 00:33:26.000
+David Smith: It's a drum skin. So I found it at a, like a drum skin shop and they go all the way up. So this is, I think, what was this? Two feet, 22, 24 inches, something like that. And it was like 25, something like that. So it's not that expensive.
+
+00:33:13.000 --> 00:33:15.000
+Dr. Nazanin Munroe: Right.
+
+00:33:26.000 --> 00:33:28.000
+Dr. Nazanin Munroe: Is that for the puppet?
+
+00:33:26.000 --> 00:33:27.000
+David Smith: Um, so…
+
+00:33:28.000 --> 00:33:29.000
+David Smith: For the puppets.
+
+00:33:29.000 --> 00:33:34.000
+Dr. Nazanin Munroe: Because even your hand on the backside, like, you can see all of the… it's a cool shadow.
+
+00:33:34.000 --> 00:33:49.000
+David Smith: Yeah, isn't that nice? And then you paint it, so that you can also occlude it further with the paint. And this is a little weird, but we think we would steam press it, and I would imagine if we steam pressed it and then let it dry, it would get nice and flat.
+
+00:33:35.000 --> 00:33:36.000
+Dr. Nazanin Munroe: Yeah.
+
+00:33:39.000 --> 00:33:41.000
+Dr. Nazanin Munroe: Okay.
+
+00:33:48.000 --> 00:33:51.000
+Dr. Nazanin Munroe: What do they cure it with? Do you know?
+
+00:33:50.000 --> 00:33:52.000
+David Smith: It's uncured.
+
+00:33:52.000 --> 00:34:01.000
+David Smith: I think. Actually, this is a good place for me to insert something, you guys.
+
+00:33:53.000 --> 00:33:54.000
+Dr. Nazanin Munroe: Oh.
+
+00:34:01.000 --> 00:34:11.000
+David Smith: about puppet making. So, I don't know if you know this also, I didn't tell you, I don't think. I'm going to India in January, to Kerala, to work with a puppet troop.
+
+00:34:11.000 --> 00:34:17.000
+David Smith: that does traditional Indian puppetry, um, and they're gonna show me how to make puppets.
+
+00:34:16.000 --> 00:34:17.000
+Dr. Nazanin Munroe: That's cool.
+
+00:34:17.000 --> 00:34:32.000
+David Smith: Yeah, which is really great. So we'll know, like, for instance, is that how that leather could be treated, or if it could be thinner, and if they use translucent and shadow, you know, cast color, etc. But the guy who runs that company.
+
+00:34:32.000 --> 00:34:42.000
+David Smith: is like a master puppeteer. His son is… goes to school, and he's doing a PhD at UConn in Storrs, Connecticut, where there's also one of the largest puppet museums in the United States.
+
+00:34:42.000 --> 00:34:44.000
+Dr. Nazanin Munroe: Oh, we should all go.
+
+00:34:43.000 --> 00:34:49.000
+David Smith: That guy at Puppeteers of America, the head of it. Yeah, that's where, yeah, John Bell runs that.
+
+00:34:48.000 --> 00:34:50.000
+Dr. Nazanin Munroe: We need a field trip.
+
+00:34:49.000 --> 00:35:08.000
+David Smith: That's what I'm saying. We could do a field trip, and the guy who's doing the PhD, who worked in the company, his son is doing the PhD, could take us on a tour, and give us all this… do a little, you know, do some kind of meet and greet, but also tell us about puppetry, and talk about the stories that are at least used in India in that… for that troop.
+
+00:34:56.000 --> 00:34:58.000
+Dr. Nazanin Munroe: Mm-hmm.
+
+00:35:08.000 --> 00:35:18.000
+David Smith: Because, I mean, my guess is they're using maybe some of the same stories that we've been using as a basis for the script. I mean, ours is very, very loosely.
+
+00:35:15.000 --> 00:35:17.000
+Dr. Nazanin Munroe: Yes.
+
+00:35:18.000 --> 00:35:30.000
+David Smith: I don't think… is there any connection? But we really want to… we really want to stitch it back, you know what I'm saying? Well, yeah, it is. Um, you know, the names are very traditional, we try to keep it like that. Okay. The story is…
+
+00:35:30.000 --> 00:35:45.000
+David Smith: traditional to… Yeah, so what you want to do is to be able to say, this is inspired or derived from this story. Directly from this story. And then say, look at, you know, and that then becomes explicitly part of what we're providing. So I can add footnotes.
+
+00:35:45.000 --> 00:36:09.000
+David Smith: Yeah. Or just, you know, so we know. Right. And this is derived from this story in the Mahabharata and or it's these three stories. And we took this piece from this, this piece, and then we added this from anime. I don't know, you know, but the idea is that we want to show those. And particularly if we're going to consider this as an educational outreach type of, product where we're going to junior high schools and things, we really. Yes. What part of it needs to be this is the historical background.
+
+00:36:09.000 --> 00:36:24.000
+David Smith: these are the traditions from which they came, and this is how we're changing it. You know, otherwise, it loses its educational, and it becomes merely derivative art, which is fine as well, but then we… we don't have that same ability to sell it as a cultural.
+
+00:36:24.000 --> 00:36:26.000
+David Smith: showcase of.
+
+00:36:26.000 --> 00:36:27.000
+Dr. Nazanin Munroe: Thank you.
+
+00:36:26.000 --> 00:36:39.000
+David Smith: of a living tradition that is tremendous historical content, but it's still alive, because we can look at… I mean, it's alive. There's a huge resurgence of.
+
+00:36:30.000 --> 00:36:31.000
+Dr. Nazanin Munroe: Hmm.
+
+00:36:39.000 --> 00:36:56.000
+David Smith: Javanese shadow puppet, using more modern themes and technologies that's going on in Indonesia right now. Yeah. Do you guys want to go on a field trip as far as Connecticut? I mean, we could figure out a day of the week to go. Maybe I think it's like a 2 h drive, 2 and a half hour drive.
+
+00:36:56.000 --> 00:36:59.000
+David Smith: Yeah. Maybe there's a button that goes up there.
+
+00:36:56.000 --> 00:37:01.000
+Dr. Nazanin Munroe: It's not that far from me, I don't think, since I'm already north.
+
+00:36:59.000 --> 00:37:04.000
+David Smith: We could find some fun. Yeah, that's Jessica. We could find some, yeah, just do a day trip.
+
+00:37:04.000 --> 00:37:20.000
+David Smith: Yeah, yeah, let's talk about it. I'll, I'll, I'll reach out and see what they have. Yeah, yeah, yeah, I think it'd be fascinating for you guys to see. I mean, there are puppets from all around the world. Oh, cool. That'll be interesting. Yeah. And some of the techniques would be cool. Yeah, exactly. Exactly. Yeah.
+
+00:37:20.000 --> 00:37:35.000
+David Smith: And yeah, I saw some videos at the Puppeteers of America, but I've never been there. But they had some videos that showed some of their displays and stuff, it was really cool. Okay, so the important part now, Tushar, is that if we're at the point where we can open the script.
+
+00:37:35.000 --> 00:37:49.000
+David Smith: that every… everybody that is participating needs to read the script and start to identify the places that their responsibilities are. Next week, I'm gonna bring in printed copies for everyone. Okay. Okay. Sounds good. Nazanin, can I…
+
+00:37:49.000 --> 00:37:51.000
+David Smith: Email you one.
+
+00:37:50.000 --> 00:37:51.000
+Dr. Nazanin Munroe: Yeah, of course.
+
+00:37:51.000 --> 00:38:06.000
+David Smith: Okay. Before you do it though, can you make those links to different, like, okay, this is the name from this story from the Mahabharata. Yeah, makeup.com. Yeah, just give us the connections. Okay. I'm gonna do all that before I print them. Great, thank you.
+
+00:38:06.000 --> 00:38:23.000
+David Smith: Okay, so that's good. Sam. So I've been working on just the publicity of our production because this is rather a small production. So I wanted to try and make it as public as possible. So I've been working on this website.
+
+00:38:23.000 --> 00:38:36.000
+David Smith: Uh, it's called, uh… You can send her the link or something. Well, if… well, I can just share it to you right now. This is called, uh, Chivas, and, uh, this is basically a virtual archive of every single thing that we've been doing.
+
+00:38:28.000 --> 00:38:30.000
+Dr. Nazanin Munroe: Yes.
+
+00:38:36.000 --> 00:38:49.000
+David Smith: And I've been working on, uh, something for the virtual room. This is like a, uh, a virtual curator, and it basically showcases all the puppets from around the world. Oh, wow. And, uh…
+
+00:38:47.000 --> 00:38:49.000
+Dr. Nazanin Munroe: That's very cool.
+
+00:38:49.000 --> 00:38:55.000
+David Smith: And if you press curator mode, let me see. Speak.
+
+00:38:55.000 --> 00:38:57.000
+David Smith: Karth Goodley.
+
+00:38:57.000 --> 00:39:00.000
+David Smith: Place of origin, Jodhpur, India.
+
+00:39:00.000 --> 00:39:19.000
+David Smith: It'll show the, uh, the puppets, and have a virtual tour. I'm gonna stop it. Yeah, so it'll show where the puppet is from, and where the puppets are from the world, and this is just one of the many things that I wanted to show.
+
+00:39:19.000 --> 00:39:31.000
+David Smith: Um, the main… the main core of this is that everybody can come here, and they can test out our puppets, the puppets that we haven't made yet, or just, uh, see how they move.
+
+00:39:31.000 --> 00:39:45.000
+David Smith: Uh, and these are actual simulations. You can actually, uh, uh, go to them, and… oh, wrong one. Yeah. So… I've made… this is one of the puppets I've been working on. Is this activated? It's activated. Can I do it? Oh, well.
+
+00:39:44.000 --> 00:39:46.000
+Dr. Nazanin Munroe: It's a double-headed bird.
+
+00:39:46.000 --> 00:39:52.000
+David Smith: It's a double-headed bird. Let me exit puppet mode. But the cool thing is that you can use this.
+
+00:39:52.000 --> 00:39:55.000
+David Smith: Um, it's motion censored.
+
+00:39:54.000 --> 00:40:00.000
+Dr. Nazanin Munroe: Right. Yeah, that was how I was understanding it when you were describing it.
+
+00:39:59.000 --> 00:40:19.000
+David Smith: Yeah, this is motion sense. So the idea here, Nazanin, is that we can have these types of puppets that are shadows that are on the projector. So we would have, like, the background, and then we would have an alpha screen in which only this is occluded. Oh, yeah, Teshari. Teshari was watching the reflection of it.
+
+00:40:05.000 --> 00:40:07.000
+Dr. Nazanin Munroe: Mm-hmm, yep.
+
+00:40:20.000 --> 00:40:21.000
+David Smith: Um, so…
+
+00:40:20.000 --> 00:40:23.000
+Dr. Nazanin Munroe: It's a reflection of a reflection.
+
+00:40:22.000 --> 00:40:37.000
+David Smith: Yeah. So the whole idea is that we're working, and this actually is good segue over to the next, in how do we build alpha mask layers that we can add shadows to the event that aren't physically generated but support it.
+
+00:40:37.000 --> 00:40:47.000
+David Smith: then the main characters would be operated by our Dalang, but all… some… a lot of the intermediate stuff, um, and other things. We could have, like, uh…
+
+00:40:47.000 --> 00:41:04.000
+David Smith: like, you know, tree hanging down, sort of, in the wind, you know, or other types of things. So it could be… it could be an interesting thing. I'm not sure exactly where they all fit. I have ideas about the ship battle scene with the dragon, because there were, like, 8 different things going on at the same time with.
+
+00:41:04.000 --> 00:41:19.000
+David Smith: With, you know, not enough room. We've been, uh, actually observing, uh, I, I found a really suitable replacement for the dragon since, uh, since it was too big when it came out of the screen. So there's a, uh, interesting puppet, it's called a Poi Dragon.
+
+00:41:19.000 --> 00:41:23.000
+David Smith: And it looks like a kite. It has a dragon head and the back is a ribbon.
+
+00:41:23.000 --> 00:41:39.000
+David Smith: So basically, when it comes out of the screen, you can twirl it around, it looks like a natural dragon flying in the sky. And behind the screen, we can use a separate puppet. But a lot of the things that we're doing right now, that I'm focusing right now, is getting the merchandise and getting.
+
+00:41:39.000 --> 00:41:55.000
+David Smith: more funding, how do we do so? And a good way to do so is that we… every time we have a show, we can sell merchandise as related to our show, and that will allow us to have more funding, not just for supplies, but.
+
+00:41:48.000 --> 00:41:50.000
+Dr. Nazanin Munroe: Right.
+
+00:41:55.000 --> 00:42:02.000
+David Smith: for our future endeavors if we were to ever expand this outside the school.
+
+00:42:00.000 --> 00:42:08.000
+Dr. Nazanin Munroe: Well, I can help you with that because I finally got my GRTI grant stuff, David.
+
+00:42:02.000 --> 00:42:05.000
+David Smith: Yeah, that was, yeah.
+
+00:42:07.000 --> 00:42:14.000
+David Smith: Oh, wow! Only 4 years. Wait 3. Wait. What was it? 24, 24, 3 years later.
+
+00:42:11.000 --> 00:42:20.000
+Dr. Nazanin Munroe: Three years, three years. It took me three years. But I have like t-shirts, ink, silk screens. Like I'm telling you, we got to do t-shirts.
+
+00:42:14.000 --> 00:42:16.000
+David Smith: But you got all of it? Did you get all of it?
+
+00:42:17.000 --> 00:42:19.000
+David Smith: Oh, wow.
+
+00:42:20.000 --> 00:42:27.000
+David Smith: Yep, that was on the top. We were thinking t-shirts. Also, I've been making buttons and things like that.
+
+00:42:25.000 --> 00:42:40.000
+Dr. Nazanin Munroe: Yeah, we can do a range of merchandise, but whatever you need with printing or maybe even embroidery, if I can get my embroidery machine to behave, we can try and work on those things. And it's a great learning opportunity for students.
+
+00:42:35.000 --> 00:42:36.000
+David Smith: Yeah.
+
+00:42:36.000 --> 00:42:38.000
+David Smith: That's fantastic.
+
+00:42:40.000 --> 00:42:42.000
+David Smith: Oh, yeah, yeah.
+
+00:42:41.000 --> 00:42:43.000
+Dr. Nazanin Munroe: So, no problem.
+
+00:42:42.000 --> 00:42:43.000
+David Smith: Yep.
+
+00:42:43.000 --> 00:42:45.000
+David Smith: That's good.
+
+00:42:45.000 --> 00:42:46.000
+David Smith: Um…
+
+00:42:46.000 --> 00:42:51.000
+David Smith: Yeah. And also we can manufacture like little puppet kits.
+
+00:42:51.000 --> 00:42:59.000
+David Smith: And we just, we only need to use chipboard for that, you know. Or just like, it depends on…
+
+00:42:59.000 --> 00:43:07.000
+David Smith: when the play is. Uh, if you buy a ticket to our play, you can also buy this as a discount.
+
+00:43:00.000 --> 00:43:02.000
+Dr. Nazanin Munroe: Mm-hmm.
+
+00:43:07.000 --> 00:43:12.000
+David Smith: And. To marketing. Yes. So yeah, but it's a way to.
+
+00:43:07.000 --> 00:43:09.000
+Dr. Nazanin Munroe: Right.
+
+00:43:12.000 --> 00:43:29.000
+David Smith: We'll think of that later. Yeah. So, okay, good. So, and so those are sort of Sam's basic, I mean, he's still doing, you know, the backgrounds. He's working on the shadow idea. He's going to be a voiceover unless we're changing who older brother is.
+
+00:43:29.000 --> 00:43:31.000
+David Smith: And, um…
+
+00:43:31.000 --> 00:43:46.000
+David Smith: Yeah. OK. Right? Is that — Yes. Is that right? I just have to work around my schedule, but I'm available on Tuesdays to help out. I think a lot of the — we're focusing just on the third act.
+
+00:43:46.000 --> 00:43:56.000
+David Smith: Yeah, what we're going to do… I have two approaches. We have reasonable recording of the first two acts. I want to be able to see if we can.
+
+00:43:56.000 --> 00:44:07.000
+David Smith: mock it up by projecting the actual, um, video of the performance onto the screen, and then run the QLab behind it.
+
+00:44:07.000 --> 00:44:11.000
+David Smith: to get the surround, and um…
+
+00:44:11.000 --> 00:44:16.000
+David Smith: And just to see if that can happen, because then we can run that without anybody there.
+
+00:44:16.000 --> 00:44:31.000
+David Smith: And then I want to touch up second act stuff, as we talked about. But yes, the bulk of the effort is going to be in the third act, and how we open it up more for the audience, and, you know, how the movie goes forward, how it goes forward.
+
+00:44:31.000 --> 00:44:32.000
+David Smith: Okay.
+
+00:44:31.000 --> 00:44:33.000
+Dr. Nazanin Munroe: Sounds good.
+
+00:44:32.000 --> 00:44:33.000
+David Smith: Good.
+
+00:44:33.000 --> 00:44:35.000
+David Smith: OK, Gabriel.
+
+00:44:35.000 --> 00:44:42.000
+David Smith: I'm sorry, I asked you to hold it and write something down, and I see instead you drew copious pictures. I did. Uh, well, I, I mean, um…
+
+00:44:42.000 --> 00:44:46.000
+David Smith: So we have projection mapping available to us.
+
+00:44:46.000 --> 00:45:01.000
+David Smith: Um, this would be, like, a rear project… so there would be light at the rear, and grid arrays, kind of like how they do in dance. Um, and so you'd project directly to the rear, have grids, have the actors stand in between the grids, and then a perpendicular.
+
+00:45:01.000 --> 00:45:04.000
+David Smith: Puppet Rod would work.
+
+00:45:04.000 --> 00:45:14.000
+David Smith: Because you could put it in front of the light, and the actor would still be behind the light, so that there wouldn't be light after pollution. And then, these are, like, textiles that would hang, maybe.
+
+00:45:14.000 --> 00:45:22.000
+David Smith: Well, that's probably… I'm sorry, but that's probably the reason for the perpendicular ones for the puppets you were talking about at the beginning. Yeah. So they could be behind the light.
+
+00:45:22.000 --> 00:45:38.000
+David Smith: Well, sometimes it can be generally diffused light, so it still works. Yeah. But they're closer to the screen. Well, the images I've seen is just like above them, but they're pretty close to the screen. Anyway, we'll experiment. We're going to work with all that. We have lights and stuff. I think you just drew the same thing that I was drawing. Oh, yeah.
+
+00:45:38.000 --> 00:45:45.000
+David Smith: Oh, it's so true. I wonder where you learned that from. What class did you learn that from?
+
+00:45:45.000 --> 00:46:10.000
+David Smith: Um, yeah, so I… and then the second experiment I was thinking of was a zoetrope. You put the puppeteers underneath it, you raise the puppet up through. Yeah, you can put it on a spindle, and they can turn, and you can… you can throw shadows through… through a spinning. And I like it, because if it's… if it's on a ratchet, you can turn the light on and off and strobe it, and then it becomes animated, because you're not seeing it rotate, it's only flashing at the right moment. You could do an LED.
+
+00:46:10.000 --> 00:46:18.000
+David Smith: Oh, yeah. There's all kinds that you can put. You put little slits in it so it looks like it. You're actually creating animation. It is animation. Yeah, yeah, yeah, yeah.
+
+00:46:18.000 --> 00:46:28.000
+Dr. Nazanin Munroe: You know, David, I also got, like, a bunch of stuff from SparkFun. Like, sensors and, you know, LED, like, neopixels and stuff that…
+
+00:46:18.000 --> 00:46:20.000
+David Smith: Yeah, okay.
+
+00:46:22.000 --> 00:46:24.000
+David Smith: Oh, good. Yeah.
+
+00:46:27.000 --> 00:46:29.000
+David Smith: Good. I like you.
+
+00:46:28.000 --> 00:46:34.000
+Dr. Nazanin Munroe: we can experiment with. I don't know if you want to use them for this class, but… I mean, for this project.
+
+00:46:32.000 --> 00:46:39.000
+David Smith: I have a ton of spark fun, too. I have, like, fairy lights, and then fully addressable LED strips, and…
+
+00:46:38.000 --> 00:46:43.000
+Dr. Nazanin Munroe: Yeah, I have that too, but I have even individual little pixel light.
+
+00:46:41.000 --> 00:46:49.000
+David Smith: Oh, good. Well, you know, as we see, I can certainly envision working some of that into the organza as well.
+
+00:46:49.000 --> 00:46:50.000
+Dr. Nazanin Munroe: Yeah, thank you.
+
+00:46:49.000 --> 00:46:58.000
+David Smith: Electrical. Or something. But those are the things for the next few months of sort of just design.
+
+00:46:51.000 --> 00:46:54.000
+Dr. Nazanin Munroe: Yeah, absolutely. Yeah.
+
+00:46:56.000 --> 00:47:08.000
+Dr. Nazanin Munroe: I mean, I'm not even realistically back until the end of January, and then I'm gonna be, like, overloaded, I'm sure, but I'm still… I'll be around at least, and I'll be off of my sabbatical, so…
+
+00:47:01.000 --> 00:47:02.000
+David Smith: Okay.
+
+00:47:02.000 --> 00:47:04.000
+David Smith: Yes.
+
+00:47:05.000 --> 00:47:08.000
+David Smith: Yeah. Right.
+
+00:47:08.000 --> 00:47:26.000
+David Smith: But what I'm saying is we don't… we're not making any decisions right now other than, sort of, scope of what we're thinking about. Exactly, yeah. And I want to introduce that, and also we could introduce long LED strips into the organs, or whatever the fabric is that we're floating above the set, and address that as well.
+
+00:47:11.000 --> 00:47:14.000
+Dr. Nazanin Munroe: Right. We're just brainstorming. Yeah.
+
+00:47:14.000 --> 00:47:15.000
+Dr. Nazanin Munroe: Sure.
+
+00:47:26.000 --> 00:47:32.000
+David Smith: The question is, how many people will we have for each of the different projects in order…
+
+00:47:26.000 --> 00:47:28.000
+Dr. Nazanin Munroe: Right.
+
+00:47:31.000 --> 00:47:34.000
+Dr. Nazanin Munroe: Yeah, are you gonna have interns?
+
+00:47:33.000 --> 00:47:48.000
+David Smith: Later in the round. Yes, I'll have a lot. Yeah. The question is where we put them and where their interests are, et cetera. But I have a bunch of sensor people this semester, so I think we could also move some of them to output as well.
+
+00:47:36.000 --> 00:47:38.000
+Dr. Nazanin Munroe: Okay.
+
+00:47:47.000 --> 00:47:49.000
+Dr. Nazanin Munroe: Okay.
+
+00:47:48.000 --> 00:47:52.000
+David Smith: Yeah, okay, good. So I think.
+
+00:47:49.000 --> 00:47:50.000
+Dr. Nazanin Munroe: Sounds good.
+
+00:47:52.000 --> 00:48:03.000
+David Smith: I think that that basically lays out what our ideas are in a very broad sense, uh, today. So… I guess I…
+
+00:48:03.000 --> 00:48:13.000
+David Smith: Yeah. So I think what we want to do then is, does anyone else have anything they want to jump in or add to what we are already proposing?
+
+00:48:13.000 --> 00:48:16.000
+David Smith: Yes, no. I had it, but I didn't.
+
+00:48:16.000 --> 00:48:22.000
+David Smith: Teshari has something incredibly important, critical, but she forgot.
+
+00:48:22.000 --> 00:48:38.000
+David Smith: That was just a brainstorm. Yeah, brainstorms or anything. Okay, so I think what I can do also is open up, like, uh, maybe we open a brainstorm on the Shadow Puppet, uh, Discord, so anytime you get an idea, just pop it into the brainstorm. Right.
+
+00:48:38.000 --> 00:48:46.000
+David Smith: Okay, so that's what I'll do. Are there any other questions, ideas, demands.
+
+00:48:46.000 --> 00:49:01.000
+David Smith: Yeah, pleads. Just getting fog machines. Okay, I've I've I've checked the I can. I can borrow one from entertainment tech. That was my question. We took on lighting. Can we use these?
+
+00:49:01.000 --> 00:49:19.000
+David Smith: these are all older lights. They're all, like, uh, regular incandescents that then go to a dimmer rack that I don't trust. So what I would do is hang LEDs. We would… we would acquire LEDs or other types of lighting. Um, and I don't have a dimmer rack here, so we have to look at what that means.
+
+00:49:19.000 --> 00:49:26.000
+David Smith: Um, but I'll talk with JR, you know, we have entertainment tech, you know, we can pull stuff. Say, like, you can use the Yoast conso.
+
+00:49:26.000 --> 00:49:33.000
+David Smith: They have plenty of lighting consoles. I'm sure they could lend one to us. But also, QLab does, um…
+
+00:49:33.000 --> 00:49:34.000
+David Smith: DMX.
+
+00:49:34.000 --> 00:49:41.000
+David Smith: So we can get the lighting module, and then we program it all external, and we upload it into QLab.
+
+00:49:41.000 --> 00:49:48.000
+David Smith: And then QLab can do that. That could also then tie into TouchDesigner.
+
+00:49:48.000 --> 00:50:08.000
+David Smith: So we have this other option of being able to add a port from Touch Designer, which is like an interactive shadow mapping type… I mean, it's very powerful software, and we can just tell QLab to open a camera window and then port Touch Designer in, and that's what Gabriel's focus has been on for the last… in the summer, he's my Touch Designer.
+
+00:50:08.000 --> 00:50:10.000
+David Smith: Guy for the self aware room.
+
+00:50:10.000 --> 00:50:12.000
+David Smith: So, yeah.
+
+00:50:10.000 --> 00:50:15.000
+Dr. Nazanin Munroe: I heard him say something about textiles too, but I didn't quite get what she said.
+
+00:50:14.000 --> 00:50:20.000
+David Smith: Oh, I had a… I was just playing with, um, a sketch. Well, it's…
+
+00:50:20.000 --> 00:50:25.000
+David Smith: So, if we wrap the back of a theater in textiles.
+
+00:50:24.000 --> 00:50:26.000
+Dr. Nazanin Munroe: Mm-hmm.
+
+00:50:25.000 --> 00:50:38.000
+David Smith: we can project directly onto the textiles and use projection mapping to control where certain video screens are. So, like, instead of doing, like, 3 rectangles, I could project…
+
+00:50:38.000 --> 00:50:44.000
+David Smith: an image that would be specifically mapped to, like, a layer of textile, so… Mm-hmm.
+
+00:50:43.000 --> 00:50:45.000
+Dr. Nazanin Munroe: Okay.
+
+00:50:44.000 --> 00:50:59.000
+David Smith: Um, that could be kind of a cool experiment. Right, and because we, because we have, yeah, because we have the racks, we can, we can hang projection onto the, uh, onto the curtain rod as well.
+
+00:50:52.000 --> 00:50:53.000
+Dr. Nazanin Munroe: Mm-hmm.
+
+00:50:58.000 --> 00:50:59.000
+Dr. Nazanin Munroe: Okay.
+
+00:50:59.000 --> 00:51:06.000
+David Smith: But anyway, those are all things we can do. We can do anything, we just can't do everything. We can only do as much as we have time to do.
+
+00:51:05.000 --> 00:51:14.000
+Dr. Nazanin Munroe: Well, we'll figure it out. We'll do what seems the most doable, or we'll start with what we think is the best idea and pivot if we need to, right?
+
+00:51:07.000 --> 00:51:08.000
+David Smith: Yeah, like.
+
+00:51:09.000 --> 00:51:13.000
+David Smith: You know, by example, like…
+
+00:51:13.000 --> 00:51:18.000
+David Smith: Yep, yep, and we'll take it to where it goes, and that's what we have.
+
+00:51:18.000 --> 00:51:20.000
+David Smith: Okay.
+
+00:51:20.000 --> 00:51:37.000
+David Smith: It basically does that. All the walls are projections, and as you walk through, touch the wall, it kind of… Which one is it? Art Tech House? Yes, Art Museum. Art Tech? Art Tech Museum. Yeah. Yeah, it kind of does that. Yeah. That kind of thing.
+
+00:51:37.000 --> 00:51:48.000
+David Smith: Right, and that's all the illuminators, right? The Van Gogh, the Klimt, you know, so those are, those are wonderful, and we can do similar kind of stuff on these walls. Right. If we have enough projectors.
+
+00:51:48.000 --> 00:51:59.000
+David Smith: we have the track, and I was just pointed at Nazanin that we could hang from the interior track, the black curtain we can… we can minimize, and then we can… and then we can…
+
+00:51:59.000 --> 00:52:16.000
+David Smith: put a screen around the whole thing. Yeah. And then some ways we can rear project, other places we have to, like, down project. That becomes a different question. For sure. That's a technical question. Environmental lighting does affect the mood, too, of the plane. Yeah, it does. So, like, maybe you can have a very… you can feel very excited.
+
+00:52:16.000 --> 00:52:31.000
+David Smith: And you can have blue coming down onto the ground. And the fog machine reflects back light. Well, it doesn't reflect, but it does diffuse. Diffuse. And it does look like you're being pulled into that world. It kind of blends that. It helps you give depth.
+
+00:52:31.000 --> 00:52:45.000
+David Smith: Yeah, and you can shine light through it and see the beams. I mean, that's a lot of what we do with Haze in theaters, just so you can see the beams coming down. Wow, just well. Yeah. I just, I just seen it at Berkeley. The band was doing that. Yeah.
+
+00:52:45.000 --> 00:52:50.000
+David Smith: Yeah, they did that because in the old, in the '60s, that smoke was actually pot.
+
+00:52:50.000 --> 00:52:55.000
+David Smith: And then they said, man, that looks really cool.
+
+00:52:53.000 --> 00:52:57.000
+Dr. Nazanin Munroe: Yeah. Well, they were all so high when they were looking at it, so that's different.
+
+00:52:56.000 --> 00:53:02.000
+David Smith: Yeah, and now they're saying, why doesn't it look as cool? Anyway.
+
+00:53:00.000 --> 00:53:06.000
+Dr. Nazanin Munroe: Uh, can I also throw in for the immersive experience, don't forget the olfactory senses?
+
+00:53:02.000 --> 00:53:03.000
+David Smith: Yep.
+
+00:53:03.000 --> 00:53:05.000
+David Smith: Mm-hmm.
+
+00:53:06.000 --> 00:53:08.000
+David Smith: Oh, yes. Yeah.
+
+00:53:07.000 --> 00:53:17.000
+Dr. Nazanin Munroe: We could really introduce some fantastic essential oils. I'm very into aromatherapy. I can bring in a diffuser and we can play around with different scents.
+
+00:53:16.000 --> 00:53:18.000
+David Smith: Mm-hmm.
+
+00:53:17.000 --> 00:53:26.000
+Dr. Nazanin Munroe: Which can change when the scenes change. We'll probably need multiple diffusers, but they're not terribly expensive. I'm sure we can invest in those.
+
+00:53:19.000 --> 00:53:20.000
+David Smith: Yep.
+
+00:53:20.000 --> 00:53:21.000
+David Smith: Yep.
+
+00:53:21.000 --> 00:53:23.000
+David Smith: Okay, cool, thank you.
+
+00:53:24.000 --> 00:53:25.000
+David Smith: Right.
+
+00:53:26.000 --> 00:53:34.000
+David Smith: Yes, and if they're preloaded, then we have some automation that turns it on from the control system at the right time.
+
+00:53:28.000 --> 00:53:31.000
+Dr. Nazanin Munroe: Yeah, you just turn them on and off, yeah.
+
+00:53:32.000 --> 00:53:35.000
+Dr. Nazanin Munroe: And there's timers. Yeah, yeah.
+
+00:53:34.000 --> 00:53:44.000
+David Smith: Yeah, yeah. Allergy considerations and stuff? Well, we would have to… we would have to talk about what… what particular requirements are for… for that. I don't know, I know that…
+
+00:53:43.000 --> 00:53:56.000
+Dr. Nazanin Munroe: I can tell you as someone with allergies, people with allergies do not generally respond negatively to essential oils. The reason people get allergies with things like fragrances is because the molecule is ameliorated.
+
+00:53:56.000 --> 00:54:02.000
+Dr. Nazanin Munroe: But the essential oil being the real thing usually doesn't bother people, and it's extremely diluted.
+
+00:54:01.000 --> 00:54:13.000
+David Smith: Okay. Yeah. And I think also, you know, like you go into a production and it will say, caution, strobe lights are going to be used in this production. And you can say.
+
+00:54:02.000 --> 00:54:04.000
+Dr. Nazanin Munroe: So…
+
+00:54:13.000 --> 00:54:25.000
+David Smith: aromatherapy will occur during this production, and it's just a warning, you know, if you have severe allergies to, you know, frangipani, I don't know, then…
+
+00:54:13.000 --> 00:54:16.000
+Dr. Nazanin Munroe: Aromatherapy will be used.
+
+00:54:24.000 --> 00:54:28.000
+Dr. Nazanin Munroe: Yeah, if you have olfactory sensitivities.
+
+00:54:27.000 --> 00:54:38.000
+David Smith: Yes, then you may want to consider a mask. Okay. Or something. Okay, I love that. Thanks for pointing that out, because we want this to be as full, um…
+
+00:54:28.000 --> 00:54:30.000
+Dr. Nazanin Munroe: Step out of the room.
+
+00:54:31.000 --> 00:54:32.000
+Dr. Nazanin Munroe: Right.
+
+00:54:33.000 --> 00:54:34.000
+Dr. Nazanin Munroe: Yeah.
+
+00:54:38.000 --> 00:54:53.000
+David Smith: uh, you know, immersive as possible, and that's certainly an important part. Full-bodied. Full-bodied smell. Full-bodied. We can, uh, even program… My full-bodied. We can even program it so that during certain scenes, that smell will be emitted, like you're at the beach. Oh, that's what we.
+
+00:54:43.000 --> 00:54:45.000
+Dr. Nazanin Munroe: Mmhm.
+
+00:54:52.000 --> 00:54:54.000
+Dr. Nazanin Munroe: Yeah, yeah, yeah.
+
+00:54:53.000 --> 00:54:57.000
+David Smith: Yeah. Yeah. Yeah. They have to have a way to vet those out. Yeah.
+
+00:54:57.000 --> 00:54:59.000
+David Smith: Yeah, or…
+
+00:54:57.000 --> 00:55:11.000
+Dr. Nazanin Munroe: Well, that is a good point, though, that we will want the smells to dissipate, so it would mean that we would turn the diffuser on for, like, 2 minutes, and then shut it off and leave it off, so then it dissipates by the time the next smell comes in.
+
+00:55:10.000 --> 00:55:16.000
+David Smith: Right. I could also put a dehumidifier or some kind of a filter in the space.
+
+00:55:15.000 --> 00:55:20.000
+Dr. Nazanin Munroe: Yeah, just an air filter with some HEPA filter would work.
+
+00:55:17.000 --> 00:55:18.000
+David Smith: A little bit.
+
+00:55:18.000 --> 00:55:27.000
+David Smith: Yeah, I mean, it's one of the things you can't, like, do it every 2 seconds with a different smell, but we recognize it's a 10-minute thing, it's for this scene, and then we don't.
+
+00:55:22.000 --> 00:55:25.000
+Dr. Nazanin Munroe: Right, it has to be selective.
+
+00:55:25.000 --> 00:55:29.000
+Dr. Nazanin Munroe: Yeah. Short and selective, exactly.
+
+00:55:27.000 --> 00:55:40.000
+David Smith: Yeah, yeah, yeah, yeah, and just a couple times. Thinking about the curtain closing in between scenes, and how that's kind of resetting to the next scene. How would you do that with an olfactory? Audience, plug your noses!
+
+00:55:34.000 --> 00:55:35.000
+Dr. Nazanin Munroe: Mm-hmm.
+
+00:55:40.000 --> 00:55:45.000
+David Smith: We bring out a fan. No, we spray Lysol.
+
+00:55:44.000 --> 00:55:47.000
+Dr. Nazanin Munroe: Oh, God, that's the opposite of what we want.
+
+00:55:47.000 --> 00:56:02.000
+David Smith: Okay. Well, we got to get them away from the smell that's in the hallway. It's awful walking in here. Well, it's the men's bath, the bathroom's over there. There's also garbage over here. Well, yeah. Well, you know, this is the reason, one of the reasons I have this space is no one knows that this space exists.
+
+00:55:50.000 --> 00:55:52.000
+Dr. Nazanin Munroe: That's true.
+
+00:56:02.000 --> 00:56:22.000
+David Smith: Okay, good. So anything else? Last minute? Any? Or are we good for now? Okay, great. I will put together notes about what we did. Great to see you. Enjoy the rest of your sabbatical. We'll have to catch up and you can tell me, you know, some of the great stuff you've been doing and discoveries and stuff.
+
+00:56:17.000 --> 00:56:19.000
+Dr. Nazanin Munroe: You too. Thank you.
+
+00:56:21.000 --> 00:56:22.000
+Dr. Nazanin Munroe: Yeah, for sure.
+
+00:56:22.000 --> 00:56:24.000
+David Smith: Okay.
+
+00:56:22.000 --> 00:56:24.000
+Dr. Nazanin Munroe: Glad to see you all.
+
+00:56:24.000 --> 00:56:29.000
+David Smith: Yep. Okay. Pre-film. Bye, everybody. Bye.
+
+00:56:30.000 --> 00:56:31.000
+David Smith: Okay.
+

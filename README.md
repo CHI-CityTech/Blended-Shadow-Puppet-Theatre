@@ -1,95 +1,29 @@
-# Blended-Shadow-Puppet-Theatre
-This is the repository that contains all high-level documentation and links for the theatrical performance component of the larger Blended Shadow Puppet Meta-project.
-The main web site for [Blended Shadow Puppet Theatre](https://openlab.citytech.cuny.edu/wayang2024/) is hosted on New York City College of Technology's [Open Lab](https://openlab.citytech.cuny.edu/) site.
-
-[**Current Version of the script**](https://docs.google.com/document/d/1zEKSCxBIiJ9Zj9KiI3fcpkhnd2KtfpEyPgutt0C6D_M/edit?tab=t.0)  
-[**Master Cue Sheet**](https://docs.google.com/spreadsheets/d/1T1PGMKF9T4H9ynn9cqJtV8zQLiV5BHxgqK76C6-gkvE/edit?usp=sharing)  
-
-## 2025 Project Team
-
-[**Blended Shadow Puppet Theatre (BSP) Spring Production**](https://github.com/orgs/CHI-CityTech/teams/bsp-spring-production)  
-The Spring Blended Shadow Puppet Theatre Production, with expanded script, puppets, and technology.  This semester, we integrate front projection, as well as the introduction of textile-based scenery that blends with projection.  We also extend the script, adding a second act (which really may be a scene in a full length version), explore more articulated puppetry, some with machine or mechanism control, compose original music, and engineer a more sophisticated surround sound system with a more elaborate set.    
-
-### Student Team
-| Name                  | Role(s) |
-|-----------------------|--------------------------------------------------------------|
-| **Sean Chan**         | Immersive Sound Audio Design for BSP, recording engineer |
-| **Sam Cheung**        | Visual Design ("Seni Rupa AI"), Physical Puppetry Design ("Perancang Wayang Teknologi"), Puppeteer ("Dalang"), Archiving and Documentation |
-| **Edward Gonzalez**   | AI Control Programmer |
-| **Osakpolor Noyiagbon** | Composer ("Wiyaga") |
-| **Anthony Navarro**   | Audio/Visual System Designer |
-| **John Powell**       | Narrator, Puppeteer |
-| **Crystal Sanchez**   | Scenic Textile Artist |
-| **Ben Watson**        | Technical Design for Mechanical Puppets |
-| **Tshari Yancey**     | Playwright, Puppeteer ("Dalang"), Puppet Artist ("Tukang Sungging") |
-
-### Faculty Mentors  
-| Name                  | Role(s) |
-|-----------------------|--------------------------------------------------------------|
-| **Nazanin Munroe**    | Textile and Fabrics |
-| **Christopher Swift** | Artistic Director |
-| **David B. Smith**    | Producer and Technical Director |
-
-
 # Blended Shadow Puppet Theatre
 
-Welcome to the **Blended Shadow Puppet Theatre** project! This initiative is a cross-disciplinary effort that seeks to merge the ancient art of Javanese shadow puppetry with cutting-edge video projection and animation technology, creating a captivating fusion of physical and virtual storytelling elements. At the heart of the Blended Shadow Puppet Theatre is a desire to honor and explore traditional Javanese puppetry, an art form steeped in history and rich in narrative depth. By integrating these traditional elements with the dynamic possibilities of 21st-century digital media, the project will offer a unique cultural bridge that spans time and geography. 
+This repository organizes production work, technical development, and shared research for the Blended Shadow Puppet Theatre project. Season-specific work lives under `seasons/`; completed production records live under `archive/`; reusable research and references live under `shared/`.
 
-Our project team combines traditional shadow puppetry, modern technology, and artificial intelligence to create an immersive and dynamic performance experience. The project integrates cultural research, modular set designs, AI collaboration, 3D fabrication, sound, music, lighting, and projection mapping to explore new narrative forms in blended environemnts that combine physical, virtual, and conceptual mediums.
+The project website is hosted by [City Tech OpenLab](https://openlab.citytech.cuny.edu/wayang2024/).
 
-## Overview
+## Current Production
 
-The Blended Shadow Puppet Theatre project explores the intersection of art, culture, and technology, focusing on the following core areas:
+The active production cycle is [2026-27](seasons/2026-27/README.md).
 
-## Key Components
+## Production Records
 
-This repository serves as the central hub for the Blended Shadow Puppet Theatre project and is structured into several focus areas:
+Current production agendas, notes, decisions, minutes, and transcripts are organized in the [production directory](production/README.md).
 
-- [**Set Design**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/design/set): Research and development of reconfigurable set designs for performances. Specific implementations of the Blended Reality Performance System project.
-- [**Narrative**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/narrative): Texts, scripts, stories and other narrative development for performances.
-- [**Puppet Design**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/design/puppetry): Projects involving the process of puppet construction, traditional construction, 3D printing, fabrication, and design of physical, robotic, and virtual puppets.
-- [**Audio**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/assets/audio): Sound reinforcement, playback, and design.
-- [**Music**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/music): Composition and virtual orchestra.
-- [**Puppetry Control**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/control/puppetry): Integration of AI systems to control puppet movements and interactions.
-- [**Cultural Research**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/docs/research/cultural): Exploration of traditional puppetry forms and cultural narratives and their integration into modern storytelling.
-- [**Projection**](https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre/tree/main/assets/projection): Designing and implementing projection-mapped visuals to complement performances.
-- [**Integration**](https://github.com/CHI-CityTech/Virtual-Physical-Integration): Creating a seamless interface between physical puppets and their virtual counterparts in a digital environment. Bridging the gap between the physical performance space and virtual worlds.
+## Production Archive
 
-Each sub-repository includes its own documentation, research, and development files. It will also link to other more specialized repositories that are also participating in teh project.  Check out each project for more detailed information.
+Browse the [historical production archive](archive/README.md), listed newest first. The repository state before this rollover is also preserved locally on the `archive/pre-2026-27-rollover` branch.
 
-## Project Goals
+## Shared Resources
 
-1. **Research**: Investigate both traditional and modern puppetry methods, technologies, and narrative techniques.
-2. **Design**: Develop flexible modular components for sets and puppets, both physical and virtual.
-3. **Produce**: Fabricate puppets, set pieces, and digital assets for performances using advanced technology (e.g., 3D printing, AI).
-4. **Perform**: Stage both physical and blended reality performances that integrate all project components.
-5. **Assess**: Collect feedback and analyze performance data for future iterations and improvements.
+- [Shared research and references](shared/README.md)
+- [Shared QLab tools and control resources](control/README.md)
+- [Project ideas issue template](.github/ISSUE_TEMPLATE/ProjectIdeas.md)
 
-## Getting Started
+## Project Scope
 
-To get involved in the project, follow these steps:
+The project brings together physical and virtual puppetry, scenic design, audio, music, video projection, automation, and show control. Season work is organized by team; reusable methods and tools are maintained separately so they can carry forward between productions.
 
-1. Clone this repository and explore the sub-repositories.
-
-   ```bash
-   git clone https://github.com/CHI-CityTech/Blended-Shadow-Puppet-Theatre.git
-2. Visit individual sub-repositories to understand specific contributions and instructions.
-3. Check out the **Project Board** to see ongoing tasks and current project milestones.
-
-## Contributing
-
-We welcome collaboration! Here’s how you can get involved:
-
-1. **Fork the repository** and make your changes.
-2. **Submit a pull request** with detailed information on your updates.
-3. **Review ongoing issues** and see where you can contribute.
-
-Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For more information, feel free to reach out via email or open an issue in the repository.
+The project also connects with the [Virtual-Physical Integration project](https://github.com/CHI-CityTech/Virtual-Physical-Integration).
